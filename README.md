@@ -4,16 +4,6 @@ Aplikasi analisis data dan pendukung keputusan (Streamlit). Materi kuliah: **Mak
 
 Alur: unggah CSV/XLSX -> profil kualitas -> pembersihan eksplisit -> EDA -> model regresi/klasifikasi -> interpretasi -> laporan PDF. Semua diproses lokal; **tidak ada layanan AI generatif eksternal** (interpretasi berbasis aturan dari statistik dan hasil model).
 
-## Fitur (dipetakan ke PRD)
-| PRD | Fitur | Lokasi |
-|---|---|---|
-| FR-01 Upload | CSV/XLSX, batas 50 MB, validasi format dan struktur | `datasense/io.py` |
-| FR-02 Kualitas data | baris/kolom, kosong per kolom, duplikat, tipe, statistik numerik, skor kualitas | `datasense/profiling.py` |
-| FR-03 Pembersihan | hapus duplikat, strategi nilai kosong (isi mean/median/modus/konstanta, hapus baris/kolom), konversi tipe, pilih kolom; **setiap tindakan dicatat dan ditampilkan** | `datasense/cleaning.py` |
-| FR-04 EDA | distribusi, kategori, korelasi (Pearson/Spearman), agregasi | `datasense/eda.py` |
-| FR-05 Model | regresi (Linear, Ridge, Random Forest) dan klasifikasi (Logistic Regression, Random Forest); split latih/uji, cross-validation, peringatan kolom identifier | `datasense/modeling.py` |
-| FR-06 Interpretasi | ringkasan otomatis + rekomendasi + keterbatasan; ditandai perlu diperiksa manusia | `datasense/interpretation.py` |
-| FR-07 Laporan | PDF: dataset, kualitas, pembersihan, grafik, metrik model, keterbatasan; unduh dataset bersih dan prediksi | `datasense/reporting.py` |
 
 ## Struktur folder
 ```text
