@@ -1,0 +1,609 @@
+id_pelanggan,usia,masa_berlangganan_bulan,tagihan_bulanan,jumlah_panggilan_support,jenis_kontrak,jenis_internet,skor_kepuasan,churn
+CUST-00001,45,18,80.34,2,Dua Tahun,DSL,7.5,Tidak
+CUST-00002,45,48,,2,Tahunan,Fiber,4.5,Tidak
+CUST-00003,64,7,100.46,3,Tahunan,DSL,5.5,Ya
+CUST-00004,64,16,58.51,0,Tahunan,DSL,8.4,Tidak
+CUST-00005,36,23,108.98,2,Tahunan,Fiber,8.9,Tidak
+CUST-00006,34,22,118.24,2,Bulanan,Fiber,6.9,Ya
+CUST-00007,25,65,39.15,2,Dua Tahun,Fiber,9.5,Tidak
+CUST-00008,36,57,60.04,2,Bulanan,DSL,5.9,Tidak
+CUST-00009,67,65,23.67,0,Bulanan,Fiber,7.0,Tidak
+CUST-00010,51,71,67.41,3,Bulanan,DSL,5.6,Tidak
+CUST-00011,47,6,62.5,2,Dua Tahun,DSL,5.6,Tidak
+CUST-00012,29,11,65.86,2,Tahunan,Fiber,7.0,Ya
+CUST-00013,72,62,29.24,3,Bulanan,DSL,7.6,Tidak
+CUST-00014,70,6,68.6,2,Bulanan,DSL,6.9,Ya
+CUST-00015,38,12,54.41,1,Bulanan,Fiber,8.6,Ya
+CUST-00016,43,13,59.83,1,Tahunan,Fiber,6.3,Ya
+CUST-00017,40,65,95.54,4,Dua Tahun,Tidak Ada,5.7,Ya
+CUST-00018,28,26,67.86,1,Bulanan,Fiber,6.3,Ya
+CUST-00019,26,19,17.29,3,Bulanan,Fiber,3.5,Ya
+CUST-00020,19,13,,3,Bulanan,DSL,7.9,Tidak
+CUST-00021,42,33,108.86,1,Bulanan,Tidak Ada,6.4,Ya
+CUST-00022,65,42,46.04,2,Bulanan,Tidak Ada,7.0,Ya
+CUST-00023,34,57,31.29,0,Dua Tahun,Fiber,8.3,Tidak
+CUST-00024,65,44,15.92,2,Bulanan,DSL,5.6,Tidak
+CUST-00025,39,71,74.79,1,Bulanan,Fiber,10.0,Ya
+CUST-00026,20,8,37.72,1,Tahunan,DSL,7.7,Tidak
+CUST-00027,59,35,49.69,3,Bulanan,Fiber,8.3,Ya
+CUST-00028,32,41,96.94,4,Dua Tahun,Fiber,5.3,Ya
+CUST-00029,50,49,108.38,0,Bulanan,DSL,6.7,Ya
+CUST-00030,22,1,39.55,2,Bulanan,Fiber,2.5,Ya
+CUST-00031,46,15,35.17,1,Bulanan,Fiber,5.4,Ya
+CUST-00032,65,34,45.39,1,Tahunan,DSL,2.5,Ya
+CUST-00033,52,5,115.57,3,Bulanan,DSL,8.8,Ya
+CUST-00034,29,70,16.09,0,Bulanan,Fiber,5.6,Tidak
+CUST-00035,21,46,92.8,0,Dua Tahun,Tidak Ada,6.8,Tidak
+CUST-00036,69,57,114.26,2,Bulanan,DSL,6.7,Ya
+CUST-00037,33,37,51.35,0,Bulanan,Fiber,7.2,Tidak
+CUST-00038,43,43,34.28,1,Dua Tahun,Fiber,5.0,Tidak
+CUST-00039,71,25,104.17,1,Bulanan,DSL,8.0,Ya
+CUST-00040,71,24,31.57,4,Tahunan,DSL,7.8,Ya
+CUST-00041,30,10,91.08,1,Bulanan,Tidak Ada,9.2,Ya
+CUST-00042,56,15,116.16,4,Bulanan,Fiber,5.1,Ya
+CUST-00043,66,55,,1,Bulanan,Fiber,,Ya
+CUST-00044,60,32,24.61,0,Bulanan,DSL,9.2,Tidak
+CUST-00045,51,59,69.86,2,Tahunan,Fiber,5.8,Tidak
+CUST-00046,47,20,92.74,2,Tahunan,Tidak Ada,9.3,Tidak
+CUST-00047,19,52,66.79,0,Tahunan,Fiber,2.8,Tidak
+CUST-00048,19,63,53.27,1,Tahunan,Fiber,7.0,Tidak
+CUST-00049,37,59,59.44,1,Bulanan,DSL,5.3,Ya
+CUST-00050,20,16,89.1,3,Bulanan,Fiber,3.7,Tidak
+CUST-00051,74,27,40.58,3,Bulanan,Fiber,6.2,Tidak
+CUST-00052,26,20,69.12,2,Tahunan,Fiber,9.5,Tidak
+CUST-00053,73,57,28.43,3,Dua Tahun,Fiber,7.6,Tidak
+CUST-00054,35,58,92.06,0,Dua Tahun,DSL,7.1,Tidak
+CUST-00055,24,32,87.74,2,Bulanan,Tidak Ada,4.8,Ya
+CUST-00056,52,20,33.11,2,Tahunan,Tidak Ada,5.6,Ya
+CUST-00057,32,5,39.9,0,Bulanan,DSL,5.6,Ya
+CUST-00058,42,20,47.57,1,Bulanan,Tidak Ada,5.5,Tidak
+CUST-00059,26,11,48.83,4,Bulanan,Fiber,6.3,Tidak
+CUST-00060,68,6,47.74,1,Bulanan,Fiber,5.3,Ya
+CUST-00061,33,56,96.46,1,Bulanan,Tidak Ada,6.8,Tidak
+CUST-00062,23,34,18.63,0,Bulanan,Fiber,2.9,Tidak
+CUST-00063,60,69,35.9,1,Tahunan,DSL,6.7,Tidak
+CUST-00064,58,19,83.76,1,Bulanan,DSL,3.3,Ya
+CUST-00065,28,28,,3,Bulanan,DSL,8.4,Tidak
+CUST-00066,26,64,104.46,2,Bulanan,Fiber,7.7,Tidak
+CUST-00067,38,44,98.09,1,Bulanan,DSL,3.2,Ya
+CUST-00068,27,21,98.99,1,Bulanan,Tidak Ada,8.0,Ya
+CUST-00069,62,27,81.88,0,Bulanan,Fiber,8.4,Ya
+CUST-00070,44,55,19.62,1,Dua Tahun,DSL,6.2,Tidak
+CUST-00071,46,26,116.14,1,Bulanan,DSL,5.8,Tidak
+CUST-00072,74,35,28.35,1,Bulanan,Fiber,8.9,Tidak
+CUST-00073,62,35,18.62,1,Bulanan,Fiber,7.7,Tidak
+CUST-00074,34,34,69.44,0,Bulanan,DSL,2.9,Ya
+CUST-00075,60,35,111.23,1,Bulanan,Fiber,9.2,Tidak
+CUST-00076,56,69,50.19,0,Dua Tahun,Fiber,4.6,Tidak
+CUST-00077,20,18,96.63,1,Bulanan,Fiber,10.0,Ya
+CUST-00078,41,64,65.13,3,Tahunan,DSL,6.1,Tidak
+CUST-00079,26,14,24.0,2,Tahunan,DSL,8.2,Tidak
+CUST-00080,50,6,82.1,2,Bulanan,DSL,7.0,Ya
+CUST-00081,49,23,116.32,3,Dua Tahun,Fiber,7.5,Ya
+CUST-00082,51,18,87.66,1,Tahunan,DSL,6.0,Tidak
+CUST-00083,32,46,85.22,3,Bulanan,DSL,5.5,Ya
+CUST-00084,59,14,77.32,2,Bulanan,DSL,5.8,Ya
+CUST-00085,46,15,25.43,2,Bulanan,Fiber,8.0,Ya
+CUST-00086,46,65,58.02,0,Bulanan,Fiber,9.0,Ya
+CUST-00087,47,58,37.22,2,Bulanan,Fiber,3.4,Tidak
+CUST-00088,27,40,76.4,4,Bulanan,Tidak Ada,6.5,Ya
+CUST-00089,33,65,69.46,4,Bulanan,DSL,6.7,Tidak
+CUST-00090,58,27,20.35,3,Dua Tahun,Fiber,8.4,Tidak
+CUST-00091,32,6,62.52,1,Bulanan,DSL,4.5,Ya
+CUST-00092,70,60,93.2,2,Bulanan,Fiber,6.9,Ya
+CUST-00093,61,7,51.64,0,Tahunan,Fiber,6.6,Ya
+CUST-00094,59,25,80.92,0,Bulanan,Fiber,7.5,Ya
+CUST-00095,23,33,51.32,2,Tahunan,Fiber,7.5,Ya
+CUST-00096,19,49,,0,Dua Tahun,DSL,5.0,Tidak
+CUST-00097,71,9,27.91,4,Bulanan,Tidak Ada,10.0,Tidak
+CUST-00098,68,17,16.86,1,Bulanan,Fiber,6.0,Ya
+CUST-00099,54,7,19.06,1,Tahunan,DSL,7.6,Ya
+CUST-00100,58,2,87.36,2,Tahunan,Fiber,6.9,Tidak
+CUST-00101,66,13,35.83,1,Bulanan,Fiber,5.3,Tidak
+CUST-00102,49,50,105.7,3,Tahunan,DSL,6.1,Tidak
+CUST-00103,70,39,95.72,0,Bulanan,Tidak Ada,7.7,Ya
+CUST-00104,30,24,92.27,0,Tahunan,Fiber,7.4,Tidak
+CUST-00105,68,49,85.15,0,Tahunan,Tidak Ada,10.0,Tidak
+CUST-00106,29,25,112.36,0,Bulanan,DSL,7.3,Ya
+CUST-00107,34,71,72.3,1,Tahunan,Fiber,6.6,Tidak
+CUST-00108,61,20,43.67,2,Tahunan,Fiber,8.0,Tidak
+CUST-00109,33,49,88.8,0,Bulanan,DSL,3.3,Tidak
+CUST-00110,59,18,28.84,1,Dua Tahun,Tidak Ada,7.0,Tidak
+CUST-00111,61,41,46.47,3,Tahunan,DSL,3.2,Ya
+CUST-00112,30,41,16.64,3,Tahunan,Tidak Ada,5.7,Ya
+CUST-00113,27,66,115.86,1,Dua Tahun,Tidak Ada,5.6,Tidak
+CUST-00114,40,24,45.8,1,Bulanan,DSL,4.7,Ya
+CUST-00115,43,8,104.99,3,Dua Tahun,Fiber,6.1,Tidak
+CUST-00116,33,31,108.95,0,Bulanan,Fiber,7.4,Ya
+CUST-00117,38,44,67.95,2,Bulanan,DSL,4.9,Ya
+CUST-00118,19,15,93.71,2,Bulanan,Fiber,5.9,Ya
+CUST-00119,25,71,47.69,0,Tahunan,Fiber,6.3,Ya
+CUST-00120,39,36,57.94,3,Dua Tahun,Fiber,3.5,Ya
+CUST-00121,70,36,110.13,1,Bulanan,Tidak Ada,9.2,Tidak
+CUST-00122,20,42,115.72,0,Bulanan,DSL,5.5,Ya
+CUST-00123,31,40,24.13,1,Dua Tahun,Fiber,6.5,Tidak
+CUST-00124,66,30,100.43,1,Bulanan,DSL,4.9,Ya
+CUST-00125,62,40,98.62,3,Bulanan,Fiber,4.5,Ya
+CUST-00126,49,29,59.73,0,Bulanan,Fiber,6.7,Ya
+CUST-00127,51,71,17.68,3,Bulanan,DSL,7.1,Tidak
+CUST-00128,21,68,63.11,2,Bulanan,DSL,5.9,Ya
+CUST-00129,57,39,83.45,2,Tahunan,Fiber,4.5,Tidak
+CUST-00130,73,4,30.29,2,Dua Tahun,Fiber,8.2,Tidak
+CUST-00131,33,25,74.4,3,Tahunan,DSL,6.6,Tidak
+CUST-00132,59,24,110.26,2,Dua Tahun,Fiber,10.0,Tidak
+CUST-00133,37,48,30.33,2,Bulanan,Tidak Ada,3.8,Tidak
+CUST-00134,52,37,86.76,2,Bulanan,Fiber,7.5,Tidak
+CUST-00135,22,9,56.0,1,Bulanan,Fiber,6.0,Ya
+CUST-00136,39,43,95.76,3,Bulanan,DSL,7.5,Tidak
+CUST-00137,48,1,79.33,1,Tahunan,Fiber,6.4,Ya
+CUST-00138,18,4,57.88,1,Dua Tahun,DSL,4.4,Ya
+CUST-00139,35,2,66.99,1,Bulanan,Tidak Ada,6.5,Ya
+CUST-00140,22,18,22.05,1,Bulanan,Fiber,6.7,Tidak
+CUST-00141,37,67,93.68,3,Bulanan,Fiber,9.1,Tidak
+CUST-00142,28,4,49.27,3,Bulanan,Fiber,5.8,Tidak
+CUST-00143,61,43,116.5,1,Dua Tahun,DSL,5.5,Tidak
+CUST-00144,22,1,107.4,4,Dua Tahun,Fiber,6.4,Ya
+CUST-00145,73,4,28.31,3,Bulanan,Fiber,4.0,Ya
+CUST-00146,72,23,116.77,1,Tahunan,DSL,5.8,Ya
+CUST-00147,48,12,53.55,0,Dua Tahun,DSL,6.1,Tidak
+CUST-00148,74,29,89.34,0,Bulanan,Fiber,6.6,Ya
+CUST-00149,66,4,111.36,2,Bulanan,Fiber,4.9,Ya
+CUST-00150,25,62,37.02,1,Bulanan,Fiber,3.8,Tidak
+CUST-00151,47,33,42.83,3,Tahunan,Fiber,7.0,Ya
+CUST-00152,66,1,109.44,2,Bulanan,DSL,5.0,Ya
+CUST-00153,21,1,74.39,3,Bulanan,DSL,2.9,Ya
+CUST-00154,68,51,56.16,2,Bulanan,Fiber,6.2,Tidak
+CUST-00155,32,26,67.85,3,Tahunan,Tidak Ada,5.3,Ya
+CUST-00156,72,33,86.37,0,Dua Tahun,Fiber,5.4,Tidak
+CUST-00157,74,49,,1,Tahunan,DSL,8.3,Tidak
+CUST-00158,35,42,15.42,2,Tahunan,Fiber,5.2,Tidak
+CUST-00159,30,49,43.27,2,Dua Tahun,Tidak Ada,7.8,Tidak
+CUST-00160,47,11,108.52,0,Bulanan,Fiber,7.3,Ya
+CUST-00161,28,55,52.36,2,Bulanan,Fiber,6.1,Ya
+CUST-00162,51,57,40.64,0,Bulanan,Fiber,5.0,Ya
+CUST-00163,23,40,54.27,1,Bulanan,Fiber,9.0,Ya
+CUST-00164,42,27,70.66,1,Bulanan,DSL,6.1,Ya
+CUST-00165,31,21,117.35,2,Dua Tahun,DSL,7.3,Tidak
+CUST-00166,39,30,81.82,2,Bulanan,DSL,3.4,Tidak
+CUST-00167,63,56,23.92,3,Bulanan,DSL,6.0,Ya
+CUST-00168,44,41,106.56,0,Bulanan,Fiber,6.8,Ya
+CUST-00169,71,14,82.57,3,Bulanan,DSL,4.3,Ya
+CUST-00170,73,19,69.21,0,Bulanan,Fiber,6.4,Ya
+CUST-00171,23,14,21.68,1,Bulanan,Fiber,4.5,Tidak
+CUST-00172,48,31,37.78,3,Dua Tahun,DSL,9.6,Tidak
+CUST-00173,37,21,82.87,0,Bulanan,Fiber,6.3,Ya
+CUST-00174,63,10,40.84,1,Bulanan,Fiber,4.9,Ya
+CUST-00175,41,46,100.49,1,Bulanan,DSL,4.8,Ya
+CUST-00176,57,50,36.42,0,Tahunan,Tidak Ada,3.8,Tidak
+CUST-00177,65,24,93.21,0,Tahunan,DSL,4.4,Ya
+CUST-00178,31,8,90.09,2,Bulanan,Fiber,4.7,Ya
+CUST-00179,53,29,47.58,1,Bulanan,Fiber,6.1,Ya
+CUST-00180,55,20,71.92,2,Bulanan,Tidak Ada,9.5,Ya
+CUST-00181,33,28,112.32,3,Bulanan,DSL,6.6,Ya
+CUST-00182,61,16,41.42,3,Bulanan,DSL,7.9,Ya
+CUST-00183,21,3,99.32,3,Tahunan,DSL,5.6,Ya
+CUST-00184,38,10,76.9,0,Bulanan,Fiber,4.4,Ya
+CUST-00185,43,61,,2,Bulanan,Fiber,5.8,Tidak
+CUST-00186,71,39,66.15,0,Tahunan,DSL,8.8,Tidak
+CUST-00187,25,39,34.79,2,Bulanan,DSL,7.2,Tidak
+CUST-00188,27,14,71.44,3,Bulanan,DSL,5.3,Ya
+CUST-00189,30,49,77.02,3,Bulanan,DSL,7.0,Tidak
+CUST-00190,27,54,99.83,0,Tahunan,Fiber,7.0,Tidak
+CUST-00191,28,67,88.57,0,Bulanan,DSL,8.2,Tidak
+CUST-00192,25,20,24.08,0,Bulanan,Fiber,4.6,Tidak
+CUST-00193,69,1,92.23,3,Bulanan,Fiber,8.8,Ya
+CUST-00194,73,69,45.9,3,Dua Tahun,Tidak Ada,4.5,Tidak
+CUST-00195,65,64,41.16,3,Tahunan,Fiber,7.3,Ya
+CUST-00196,52,41,109.7,0,Bulanan,Fiber,8.8,Ya
+CUST-00197,31,71,112.36,1,Tahunan,Fiber,6.4,Tidak
+CUST-00198,62,7,47.18,2,Tahunan,Fiber,9.8,Tidak
+CUST-00199,67,40,35.33,0,Bulanan,Fiber,8.7,Tidak
+CUST-00200,57,45,65.93,0,Tahunan,Fiber,4.9,Tidak
+CUST-00201,30,16,,0,Dua Tahun,DSL,3.3,Tidak
+CUST-00202,50,15,117.21,4,Bulanan,Fiber,4.5,Ya
+CUST-00203,66,39,41.72,1,Bulanan,Fiber,4.2,Ya
+CUST-00204,34,27,106.21,1,Tahunan,Tidak Ada,7.3,Tidak
+CUST-00205,50,37,64.32,2,Tahunan,Fiber,6.6,Tidak
+CUST-00206,50,15,80.33,2,Bulanan,DSL,7.6,Tidak
+CUST-00207,66,32,114.18,2,Bulanan,Fiber,5.4,Ya
+CUST-00208,47,21,67.78,2,Dua Tahun,DSL,8.3,Tidak
+CUST-00209,58,38,92.53,3,Bulanan,Fiber,10.0,Ya
+CUST-00210,59,44,100.92,4,Bulanan,DSL,7.2,Ya
+CUST-00211,59,35,102.94,1,Tahunan,Fiber,3.6,Tidak
+CUST-00212,28,36,65.02,4,Dua Tahun,DSL,7.2,Tidak
+CUST-00213,51,19,92.25,3,Tahunan,Tidak Ada,8.2,Ya
+CUST-00214,54,2,30.93,3,Tahunan,Tidak Ada,8.9,Tidak
+CUST-00215,42,48,20.34,1,Bulanan,Fiber,5.7,Tidak
+CUST-00216,32,66,108.83,3,Bulanan,Fiber,5.0,Tidak
+CUST-00217,57,43,22.85,3,Tahunan,Fiber,6.5,Tidak
+CUST-00218,49,18,21.65,2,Bulanan,DSL,6.6,Ya
+CUST-00219,64,32,97.32,2,Bulanan,Fiber,8.8,Ya
+CUST-00220,74,35,32.29,0,Bulanan,Fiber,5.7,Tidak
+CUST-00221,29,30,22.66,1,Tahunan,Fiber,7.0,Tidak
+CUST-00222,43,10,48.72,2,Bulanan,Fiber,6.4,Tidak
+CUST-00223,45,61,85.69,2,Bulanan,DSL,8.8,Tidak
+CUST-00224,43,28,27.83,1,Bulanan,Fiber,6.5,Tidak
+CUST-00225,51,1,105.63,0,Bulanan,DSL,7.4,Ya
+CUST-00226,55,56,117.1,1,Tahunan,DSL,6.0,Tidak
+CUST-00227,31,2,83.01,1,Bulanan,Fiber,6.9,Ya
+CUST-00228,41,17,91.45,4,Bulanan,Fiber,7.8,Tidak
+CUST-00229,64,27,33.25,1,Bulanan,Fiber,2.9,Ya
+CUST-00230,69,60,81.76,1,Bulanan,Fiber,6.2,Ya
+CUST-00231,20,51,117.29,0,Dua Tahun,Fiber,5.2,Tidak
+CUST-00232,62,44,112.29,0,Tahunan,DSL,5.0,Tidak
+CUST-00233,25,34,51.03,1,Tahunan,Fiber,6.8,Tidak
+CUST-00234,67,45,88.05,1,Tahunan,Fiber,6.8,Tidak
+CUST-00235,70,63,32.58,0,Bulanan,DSL,8.0,Tidak
+CUST-00236,28,65,79.47,3,Tahunan,DSL,9.4,Ya
+CUST-00237,52,54,79.55,0,Tahunan,Fiber,4.8,Tidak
+CUST-00238,58,37,36.1,1,Bulanan,Tidak Ada,5.9,Ya
+CUST-00239,74,16,49.22,0,Bulanan,Fiber,7.4,Ya
+CUST-00240,38,10,105.78,2,Tahunan,Tidak Ada,6.7,Tidak
+CUST-00241,40,27,38.53,0,Dua Tahun,DSL,9.4,Tidak
+CUST-00242,56,46,44.69,2,Tahunan,DSL,5.0,Tidak
+CUST-00243,42,14,63.52,2,Bulanan,DSL,7.4,Tidak
+CUST-00244,25,46,35.73,1,Tahunan,Fiber,4.8,Ya
+CUST-00245,30,59,65.75,3,Bulanan,Fiber,8.3,Tidak
+CUST-00246,40,57,51.9,1,Dua Tahun,DSL,8.7,Tidak
+CUST-00247,56,25,60.21,1,Bulanan,DSL,6.8,Tidak
+CUST-00248,61,9,79.58,1,Bulanan,DSL,6.8,Ya
+CUST-00249,43,64,105.6,1,Bulanan,Fiber,2.8,Tidak
+CUST-00250,74,16,52.51,1,Bulanan,Tidak Ada,5.2,Tidak
+CUST-00251,30,47,68.83,2,Bulanan,Tidak Ada,5.6,Ya
+CUST-00252,29,67,25.72,1,Bulanan,Fiber,1.0,Ya
+CUST-00253,72,68,100.73,0,Bulanan,Tidak Ada,5.5,Tidak
+CUST-00254,57,40,54.08,2,Dua Tahun,DSL,6.2,Tidak
+CUST-00255,33,29,117.6,1,Bulanan,DSL,8.0,Tidak
+CUST-00256,19,15,93.31,2,Tahunan,DSL,4.1,Tidak
+CUST-00257,66,54,94.58,0,Bulanan,DSL,8.0,Ya
+CUST-00258,49,31,85.72,2,Tahunan,DSL,6.5,Tidak
+CUST-00259,19,23,26.82,1,Bulanan,Tidak Ada,9.0,Tidak
+CUST-00260,58,28,102.48,1,Bulanan,Fiber,9.1,Ya
+CUST-00261,48,10,64.49,1,Tahunan,Fiber,9.4,Ya
+CUST-00262,52,10,87.19,0,Bulanan,Fiber,7.4,Ya
+CUST-00263,61,27,94.19,2,Bulanan,Fiber,5.9,Ya
+CUST-00264,67,43,18.81,1,Bulanan,Fiber,8.8,Ya
+CUST-00265,31,26,111.71,1,Bulanan,Tidak Ada,6.3,Ya
+CUST-00266,23,4,15.21,1,Tahunan,DSL,5.9,Tidak
+CUST-00267,54,23,101.89,2,Bulanan,Fiber,5.7,Ya
+CUST-00268,60,5,70.26,0,Bulanan,Tidak Ada,6.5,Ya
+CUST-00269,69,7,54.29,0,Tahunan,DSL,7.5,Tidak
+CUST-00270,70,19,98.27,1,Bulanan,DSL,8.4,Ya
+CUST-00271,66,42,82.77,1,Bulanan,DSL,5.8,Tidak
+CUST-00272,55,27,100.62,0,Tahunan,Fiber,7.8,Tidak
+CUST-00273,42,6,83.4,3,Tahunan,DSL,3.5,Tidak
+CUST-00274,31,40,82.72,1,Dua Tahun,Tidak Ada,6.0,Tidak
+CUST-00275,71,66,66.03,1,Dua Tahun,Tidak Ada,8.5,Tidak
+CUST-00276,29,65,86.91,1,Bulanan,Fiber,6.0,Ya
+CUST-00277,58,64,81.3,1,Tahunan,DSL,5.6,Tidak
+CUST-00278,21,17,56.54,1,Bulanan,DSL,5.3,Ya
+CUST-00279,65,59,95.29,3,Bulanan,Fiber,5.4,Tidak
+CUST-00280,53,11,65.13,1,Bulanan,DSL,4.7,Ya
+CUST-00281,66,23,102.26,2,Tahunan,Fiber,2.8,Ya
+CUST-00282,46,10,85.68,1,Dua Tahun,Tidak Ada,5.7,Tidak
+CUST-00283,36,57,112.02,2,Bulanan,Tidak Ada,5.0,Ya
+CUST-00284,46,6,108.62,1,Bulanan,Fiber,3.4,Ya
+CUST-00285,56,38,115.54,2,Bulanan,DSL,7.2,Tidak
+CUST-00286,25,12,53.12,2,Bulanan,DSL,4.8,Tidak
+CUST-00287,35,66,93.76,1,Dua Tahun,Fiber,9.6,Tidak
+CUST-00288,51,16,117.13,1,Tahunan,DSL,3.0,Ya
+CUST-00289,37,34,,3,Bulanan,Tidak Ada,6.7,Ya
+CUST-00290,35,68,36.56,0,Bulanan,Fiber,9.3,Tidak
+CUST-00291,19,38,69.75,1,Bulanan,Fiber,8.3,Ya
+CUST-00292,40,63,41.78,1,Bulanan,Tidak Ada,3.2,Ya
+CUST-00293,36,69,73.36,5,Tahunan,DSL,6.9,Tidak
+CUST-00294,46,10,103.7,3,Bulanan,DSL,7.0,Ya
+CUST-00295,25,47,104.11,0,Bulanan,DSL,7.8,Ya
+CUST-00296,63,56,31.96,3,Tahunan,Fiber,6.3,Tidak
+CUST-00297,42,61,82.43,1,Dua Tahun,DSL,7.2,Tidak
+CUST-00298,23,1,67.06,3,Bulanan,Fiber,9.2,Ya
+CUST-00299,74,66,,3,Bulanan,Fiber,5.9,Tidak
+CUST-00300,70,48,82.24,0,Dua Tahun,DSL,7.7,Tidak
+CUST-00301,57,20,88.91,1,Tahunan,Fiber,3.8,Ya
+CUST-00302,68,23,31.75,0,Bulanan,Fiber,5.7,Ya
+CUST-00303,59,20,101.43,1,Tahunan,Fiber,5.6,Ya
+CUST-00304,25,26,59.36,2,Dua Tahun,DSL,9.4,Tidak
+CUST-00305,60,69,89.96,0,Dua Tahun,DSL,9.8,Tidak
+CUST-00306,48,17,45.93,1,Bulanan,DSL,4.5,Ya
+CUST-00307,32,16,88.82,4,Bulanan,Fiber,6.8,Ya
+CUST-00308,70,40,21.8,3,Tahunan,DSL,5.9,Tidak
+CUST-00309,21,50,109.79,1,Tahunan,Fiber,7.3,Tidak
+CUST-00310,35,67,74.96,0,Bulanan,DSL,5.3,Tidak
+CUST-00311,25,57,106.62,0,Dua Tahun,DSL,6.9,Tidak
+CUST-00312,66,59,31.97,3,Bulanan,DSL,6.5,Tidak
+CUST-00313,33,23,47.58,0,Bulanan,Fiber,8.1,Ya
+CUST-00314,37,58,92.69,3,Bulanan,Fiber,3.3,Ya
+CUST-00315,30,48,26.29,1,Dua Tahun,DSL,8.7,Tidak
+CUST-00316,65,37,100.4,2,Tahunan,DSL,5.8,Ya
+CUST-00317,54,53,56.75,2,Bulanan,Fiber,4.1,Tidak
+CUST-00318,34,70,47.91,3,Tahunan,Fiber,7.5,Tidak
+CUST-00319,69,56,36.27,0,Bulanan,DSL,5.7,Tidak
+CUST-00320,45,60,17.81,1,Tahunan,DSL,9.5,Tidak
+CUST-00321,72,62,99.64,1,Bulanan,DSL,4.6,Ya
+CUST-00322,34,45,,0,Tahunan,DSL,6.3,Tidak
+CUST-00323,31,18,71.01,1,Bulanan,Fiber,8.2,Ya
+CUST-00324,34,64,,0,Bulanan,Fiber,5.6,Tidak
+CUST-00325,61,56,100.52,2,Bulanan,DSL,5.4,Ya
+CUST-00326,47,7,35.69,0,Tahunan,Fiber,9.7,Tidak
+CUST-00327,43,2,67.52,0,Bulanan,DSL,6.6,Tidak
+CUST-00328,74,16,60.62,0,Bulanan,Tidak Ada,6.3,Ya
+CUST-00329,23,35,39.66,1,Dua Tahun,Fiber,5.4,Tidak
+CUST-00330,31,65,35.91,0,Tahunan,Fiber,5.5,Tidak
+CUST-00331,46,55,87.69,3,Tahunan,Fiber,5.8,Tidak
+CUST-00332,23,13,,2,Tahunan,Fiber,6.1,Ya
+CUST-00333,53,45,100.23,5,Dua Tahun,DSL,5.8,Tidak
+CUST-00334,18,6,108.11,2,Tahunan,Fiber,5.3,Ya
+CUST-00335,50,4,26.42,0,Tahunan,Fiber,8.3,Tidak
+CUST-00336,73,28,117.92,1,Tahunan,Tidak Ada,4.0,Ya
+CUST-00337,51,35,102.15,0,Tahunan,DSL,2.4,Ya
+CUST-00338,73,51,79.13,2,Bulanan,Fiber,7.1,Tidak
+CUST-00339,37,7,18.7,0,Dua Tahun,Tidak Ada,6.5,Tidak
+CUST-00340,42,43,97.77,0,Bulanan,DSL,4.5,Tidak
+CUST-00341,74,46,41.67,3,Tahunan,Tidak Ada,4.1,Tidak
+CUST-00342,60,38,107.37,2,Dua Tahun,DSL,7.8,Ya
+CUST-00343,68,1,87.39,2,Bulanan,DSL,7.7,Ya
+CUST-00344,23,53,59.53,2,Bulanan,DSL,5.3,Ya
+CUST-00345,71,8,17.28,1,Bulanan,Fiber,6.3,Ya
+CUST-00346,60,60,77.95,0,Bulanan,DSL,7.2,Tidak
+CUST-00347,60,49,90.66,1,Bulanan,Fiber,4.3,Tidak
+CUST-00348,38,2,109.39,0,Bulanan,Fiber,6.8,Ya
+CUST-00349,62,34,21.38,4,Tahunan,DSL,8.5,Tidak
+CUST-00350,49,64,80.65,1,Bulanan,Tidak Ada,7.0,Tidak
+CUST-00351,60,3,27.72,0,Tahunan,Fiber,7.8,Ya
+CUST-00352,50,43,104.93,2,Tahunan,Fiber,8.3,Tidak
+CUST-00353,41,5,32.75,0,Tahunan,DSL,6.9,Ya
+CUST-00354,32,63,69.7,1,Bulanan,DSL,5.7,Tidak
+CUST-00355,53,14,87.84,1,Dua Tahun,Tidak Ada,7.1,Tidak
+CUST-00356,68,35,31.12,0,Bulanan,DSL,7.2,Tidak
+CUST-00357,25,43,101.44,0,Tahunan,Fiber,5.7,Tidak
+CUST-00358,74,24,35.08,2,Dua Tahun,Fiber,6.4,Ya
+CUST-00359,51,22,56.89,2,Bulanan,DSL,5.3,Ya
+CUST-00360,69,10,16.77,1,Bulanan,DSL,8.5,Tidak
+CUST-00361,28,66,43.75,1,Bulanan,Tidak Ada,4.6,Ya
+CUST-00362,47,53,84.2,1,Tahunan,Fiber,5.3,Tidak
+CUST-00363,25,23,96.03,1,Dua Tahun,DSL,5.5,Tidak
+CUST-00364,36,9,87.54,0,Bulanan,Fiber,7.8,Tidak
+CUST-00365,41,35,67.66,4,Bulanan,Fiber,9.0,Ya
+CUST-00366,41,60,69.68,0,Dua Tahun,DSL,5.2,Tidak
+CUST-00367,74,60,30.39,1,Tahunan,DSL,6.6,Tidak
+CUST-00368,70,13,93.69,1,Bulanan,Fiber,8.5,Tidak
+CUST-00369,19,49,41.94,1,Tahunan,Fiber,5.4,Tidak
+CUST-00370,44,5,,3,Bulanan,Fiber,4.1,Ya
+CUST-00371,62,32,46.37,0,Tahunan,DSL,6.4,Tidak
+CUST-00372,22,48,87.94,0,Dua Tahun,Fiber,5.5,Tidak
+CUST-00373,61,7,25.46,0,Tahunan,DSL,8.2,Tidak
+CUST-00374,42,37,54.98,1,Tahunan,DSL,7.6,Tidak
+CUST-00375,31,16,21.47,3,Bulanan,Fiber,9.1,Ya
+CUST-00376,65,13,37.71,0,Bulanan,Fiber,6.2,Tidak
+CUST-00377,39,56,46.2,0,Dua Tahun,DSL,4.1,Ya
+CUST-00378,70,3,81.71,2,Bulanan,DSL,6.4,Ya
+CUST-00379,57,55,27.73,1,Bulanan,DSL,8.5,Tidak
+CUST-00380,48,21,110.4,5,Dua Tahun,DSL,3.4,Ya
+CUST-00381,45,53,64.51,1,Bulanan,DSL,6.6,Ya
+CUST-00382,22,62,103.32,2,Bulanan,Fiber,9.5,Tidak
+CUST-00383,22,70,108.42,2,Dua Tahun,Fiber,4.7,Tidak
+CUST-00384,19,27,53.37,1,Bulanan,DSL,8.1,Ya
+CUST-00385,41,69,23.39,0,Tahunan,Tidak Ada,3.5,Tidak
+CUST-00386,33,55,47.08,1,Bulanan,Fiber,7.1,Ya
+CUST-00387,51,64,24.22,2,Bulanan,Fiber,7.1,Tidak
+CUST-00388,35,71,113.14,1,Tahunan,DSL,6.6,Ya
+CUST-00389,40,67,92.75,0,Bulanan,DSL,7.6,Tidak
+CUST-00390,32,58,96.54,0,Bulanan,Tidak Ada,6.9,Tidak
+CUST-00391,46,27,93.98,3,Bulanan,DSL,8.7,Ya
+CUST-00392,23,71,37.01,1,Tahunan,DSL,5.6,Tidak
+CUST-00393,33,63,104.69,2,Bulanan,Fiber,8.8,Tidak
+CUST-00394,43,35,89.29,0,Tahunan,DSL,3.4,Tidak
+CUST-00395,36,7,72.83,0,Tahunan,Fiber,10.0,Tidak
+CUST-00396,30,68,117.73,1,Tahunan,Tidak Ada,8.5,Tidak
+CUST-00397,46,48,108.93,2,Tahunan,Fiber,8.8,Tidak
+CUST-00398,52,14,84.83,2,Dua Tahun,Tidak Ada,6.9,Ya
+CUST-00399,74,14,113.97,2,Bulanan,Fiber,6.1,Ya
+CUST-00400,26,14,50.69,2,Bulanan,Fiber,6.0,Ya
+CUST-00401,36,31,31.15,3,Tahunan,DSL,9.2,Ya
+CUST-00402,38,50,66.57,3,Bulanan,Fiber,8.2,Tidak
+CUST-00403,34,16,50.5,2,Dua Tahun,Fiber,7.7,Tidak
+CUST-00404,64,69,44.41,1,Bulanan,Fiber,4.7,Tidak
+CUST-00405,63,2,68.44,0,Bulanan,Tidak Ada,6.9,Ya
+CUST-00406,50,46,52.72,0,Bulanan,DSL,6.8,Ya
+CUST-00407,65,47,42.38,0,Dua Tahun,Tidak Ada,6.4,Tidak
+CUST-00408,21,41,115.58,2,Bulanan,Fiber,5.7,Tidak
+CUST-00409,39,54,36.67,1,Bulanan,DSL,4.3,Tidak
+CUST-00410,28,62,111.14,5,Bulanan,Fiber,10.0,Tidak
+CUST-00411,66,34,40.47,0,Dua Tahun,DSL,7.5,Tidak
+CUST-00412,21,20,72.32,0,Tahunan,DSL,9.2,Tidak
+CUST-00413,69,29,71.69,0,Tahunan,DSL,3.1,Ya
+CUST-00414,45,63,112.12,0,Dua Tahun,DSL,10.0,Tidak
+CUST-00415,70,54,95.01,1,Dua Tahun,DSL,4.0,Tidak
+CUST-00416,37,5,118.93,2,Bulanan,DSL,7.5,Ya
+CUST-00417,45,64,33.17,1,Dua Tahun,Tidak Ada,6.5,Tidak
+CUST-00418,50,16,38.68,0,Bulanan,DSL,7.9,Tidak
+CUST-00419,25,23,112.03,1,Bulanan,Fiber,6.9,Tidak
+CUST-00420,70,58,,1,Bulanan,Tidak Ada,8.7,Ya
+CUST-00421,34,45,31.02,4,Bulanan,DSL,4.5,Ya
+CUST-00422,56,40,41.68,2,Bulanan,Fiber,6.4,Tidak
+CUST-00423,27,8,,1,Tahunan,DSL,6.8,Tidak
+CUST-00424,53,60,78.32,1,Bulanan,Fiber,3.6,Tidak
+CUST-00425,70,33,53.76,2,Bulanan,Fiber,3.4,Ya
+CUST-00426,34,28,54.13,2,Tahunan,DSL,5.1,Tidak
+CUST-00427,27,47,109.8,1,Bulanan,DSL,8.0,Ya
+CUST-00428,35,3,17.68,2,Bulanan,Fiber,6.8,Ya
+CUST-00429,21,31,119.86,1,Tahunan,DSL,10.0,Tidak
+CUST-00430,60,42,65.31,0,Tahunan,Tidak Ada,10.0,Tidak
+CUST-00431,38,45,63.58,0,Tahunan,Fiber,5.4,Tidak
+CUST-00432,61,46,102.6,0,Bulanan,Fiber,6.9,Tidak
+CUST-00433,73,32,79.51,1,Bulanan,DSL,5.2,Ya
+CUST-00434,38,9,80.12,4,Tahunan,Fiber,7.1,Ya
+CUST-00435,47,15,110.3,1,Bulanan,DSL,6.1,Ya
+CUST-00436,60,44,80.0,3,Bulanan,Fiber,4.0,Ya
+CUST-00437,43,9,28.45,2,Bulanan,DSL,5.2,Ya
+CUST-00438,29,54,41.26,1,Bulanan,Fiber,7.7,Tidak
+CUST-00439,31,46,73.6,2,Bulanan,DSL,5.8,Tidak
+CUST-00440,40,69,72.82,0,Tahunan,Fiber,4.6,Tidak
+CUST-00441,63,4,68.48,1,Dua Tahun,Fiber,9.7,Tidak
+CUST-00442,48,48,20.86,3,Tahunan,Tidak Ada,10.0,Tidak
+CUST-00443,36,13,20.72,2,Tahunan,Fiber,6.2,Ya
+CUST-00444,73,41,55.2,1,Bulanan,DSL,8.6,Tidak
+CUST-00445,71,61,104.25,2,Dua Tahun,Fiber,8.5,Tidak
+CUST-00446,69,47,,3,Bulanan,DSL,,Tidak
+CUST-00447,27,58,37.74,5,Bulanan,DSL,3.4,Ya
+CUST-00448,30,28,69.07,2,Bulanan,DSL,6.4,Ya
+CUST-00449,50,34,95.41,0,Bulanan,Fiber,7.9,Ya
+CUST-00450,27,39,47.36,2,Bulanan,DSL,6.3,Ya
+CUST-00451,35,24,100.83,2,Bulanan,DSL,9.6,Tidak
+CUST-00452,54,32,25.84,3,Bulanan,Tidak Ada,6.5,Tidak
+CUST-00453,56,19,38.6,2,Bulanan,Fiber,6.6,Ya
+CUST-00454,71,40,,2,Bulanan,Fiber,5.2,Ya
+CUST-00455,54,62,89.32,1,Bulanan,DSL,6.4,Tidak
+CUST-00456,24,46,42.65,0,Tahunan,Tidak Ada,6.9,Tidak
+CUST-00457,46,34,77.21,3,Tahunan,Fiber,6.6,Ya
+CUST-00458,49,47,46.61,0,Tahunan,Fiber,8.0,Tidak
+CUST-00459,72,12,106.93,2,Tahunan,Fiber,9.5,Tidak
+CUST-00460,59,61,18.46,1,Bulanan,Fiber,8.9,Tidak
+CUST-00461,56,29,57.27,2,Dua Tahun,Tidak Ada,9.2,Tidak
+CUST-00462,48,12,112.42,0,Bulanan,DSL,6.6,Tidak
+CUST-00463,27,24,29.57,1,Tahunan,Tidak Ada,3.1,Ya
+CUST-00464,53,17,104.25,2,Dua Tahun,DSL,4.5,Ya
+CUST-00465,67,30,119.16,2,Tahunan,DSL,5.2,Ya
+CUST-00466,43,23,58.01,2,Tahunan,Tidak Ada,6.7,Ya
+CUST-00467,72,30,88.73,2,Bulanan,Fiber,4.0,Tidak
+CUST-00468,52,67,26.18,3,Bulanan,DSL,7.6,Tidak
+CUST-00469,60,57,,3,Bulanan,Tidak Ada,6.1,Ya
+CUST-00470,24,46,65.45,2,Tahunan,Fiber,7.8,Tidak
+CUST-00471,46,62,113.92,1,Bulanan,DSL,9.3,Tidak
+CUST-00472,69,10,35.51,1,Dua Tahun,Fiber,4.6,Tidak
+CUST-00473,55,53,29.27,1,Bulanan,Fiber,7.4,Tidak
+CUST-00474,57,22,20.31,0,Bulanan,DSL,3.9,Ya
+CUST-00475,59,55,105.33,1,Bulanan,Fiber,6.0,Ya
+CUST-00476,71,50,113.61,1,Dua Tahun,Fiber,7.1,Tidak
+CUST-00477,59,64,112.71,1,Bulanan,Fiber,6.4,Tidak
+CUST-00478,55,15,34.33,0,Bulanan,Fiber,4.2,Ya
+CUST-00479,60,13,51.68,1,Tahunan,DSL,7.0,Tidak
+CUST-00480,19,54,86.26,1,Tahunan,Fiber,6.6,Tidak
+CUST-00481,54,70,103.16,2,Dua Tahun,Fiber,5.4,Tidak
+CUST-00482,23,67,113.7,3,Tahunan,DSL,6.8,Ya
+CUST-00483,24,62,96.92,3,Dua Tahun,Fiber,7.8,Tidak
+CUST-00484,40,66,100.1,2,Bulanan,DSL,9.8,Ya
+CUST-00485,39,3,63.08,3,Tahunan,DSL,6.3,Tidak
+CUST-00486,34,35,85.24,1,Bulanan,DSL,7.1,Tidak
+CUST-00487,23,18,70.4,1,Bulanan,Fiber,2.9,Ya
+CUST-00488,61,25,79.97,0,Bulanan,DSL,6.5,Ya
+CUST-00489,62,49,86.04,1,Dua Tahun,DSL,6.6,Ya
+CUST-00490,41,13,20.1,3,Tahunan,Fiber,8.5,Tidak
+CUST-00491,36,56,61.43,0,Bulanan,DSL,6.5,Tidak
+CUST-00492,73,11,39.33,0,Dua Tahun,DSL,8.1,Tidak
+CUST-00493,50,18,45.2,2,Bulanan,DSL,4.4,Ya
+CUST-00494,52,5,54.42,4,Tahunan,Fiber,8.3,Ya
+CUST-00495,27,28,70.49,0,Bulanan,Fiber,9.8,Tidak
+CUST-00496,65,59,104.94,1,Bulanan,Fiber,6.5,Ya
+CUST-00497,21,7,109.81,1,Bulanan,Fiber,5.6,Ya
+CUST-00498,24,25,31.06,1,Bulanan,Tidak Ada,8.9,Tidak
+CUST-00499,53,61,,5,Dua Tahun,Fiber,6.6,Tidak
+CUST-00500,64,18,118.31,0,Bulanan,DSL,9.3,Ya
+CUST-00501,28,22,103.48,1,Dua Tahun,Fiber,9.0,Tidak
+CUST-00502,38,63,47.52,1,Tahunan,Fiber,6.1,Tidak
+CUST-00503,42,66,39.39,3,Tahunan,Fiber,7.9,Tidak
+CUST-00504,52,10,94.65,1,Tahunan,Fiber,5.3,Tidak
+CUST-00505,58,5,32.01,1,Bulanan,Fiber,2.0,Ya
+CUST-00506,49,10,89.04,0,Tahunan,DSL,5.2,Ya
+CUST-00507,31,68,96.4,5,Tahunan,DSL,5.1,Tidak
+CUST-00508,27,19,70.39,1,Tahunan,Fiber,4.3,Ya
+CUST-00509,71,2,23.84,1,Tahunan,DSL,2.7,Ya
+CUST-00510,49,60,118.26,1,Tahunan,Fiber,6.7,Ya
+CUST-00511,42,17,94.2,1,Bulanan,Fiber,8.0,Ya
+CUST-00512,24,9,47.96,3,Tahunan,DSL,8.8,Tidak
+CUST-00513,48,47,38.81,0,Bulanan,DSL,6.4,Tidak
+CUST-00514,25,15,27.11,2,Bulanan,Fiber,4.4,Ya
+CUST-00515,51,59,27.7,0,Tahunan,Fiber,8.1,Ya
+CUST-00516,30,66,106.44,1,Bulanan,Tidak Ada,6.3,Ya
+CUST-00517,44,22,112.72,3,Bulanan,Fiber,5.5,Ya
+CUST-00518,52,63,37.77,3,Tahunan,DSL,6.8,Tidak
+CUST-00519,64,54,23.36,1,Tahunan,Tidak Ada,7.2,Tidak
+CUST-00520,54,50,69.06,1,Bulanan,DSL,5.2,Tidak
+CUST-00521,58,36,,1,Bulanan,DSL,6.6,Ya
+CUST-00522,27,11,21.55,1,Bulanan,DSL,4.7,Tidak
+CUST-00523,55,38,62.63,1,Bulanan,Fiber,5.7,Ya
+CUST-00524,66,51,29.6,0,Tahunan,DSL,4.2,Tidak
+CUST-00525,66,24,91.58,1,Bulanan,Fiber,7.5,Tidak
+CUST-00526,64,71,46.87,1,Bulanan,Fiber,8.3,Tidak
+CUST-00527,74,28,37.51,2,Bulanan,DSL,7.1,Tidak
+CUST-00528,61,50,41.98,0,Tahunan,DSL,8.4,Tidak
+CUST-00529,54,32,103.34,0,Tahunan,Fiber,4.1,Tidak
+CUST-00530,31,39,59.76,2,Bulanan,Fiber,8.7,Tidak
+CUST-00531,23,23,95.31,1,Tahunan,Fiber,5.7,Ya
+CUST-00532,68,52,53.49,1,Bulanan,Fiber,7.8,Tidak
+CUST-00533,23,52,55.12,1,Dua Tahun,Fiber,6.7,Tidak
+CUST-00534,53,64,110.69,2,Bulanan,DSL,7.2,Ya
+CUST-00535,57,44,74.15,1,Bulanan,DSL,7.6,Tidak
+CUST-00536,73,30,15.76,3,Bulanan,DSL,7.8,Ya
+CUST-00537,59,31,49.21,0,Bulanan,DSL,8.9,Tidak
+CUST-00538,40,51,34.41,3,Dua Tahun,DSL,4.1,Ya
+CUST-00539,33,35,110.28,2,Tahunan,DSL,6.3,Ya
+CUST-00540,52,45,26.87,1,Dua Tahun,Fiber,4.1,Tidak
+CUST-00541,72,15,19.92,0,Dua Tahun,DSL,5.8,Tidak
+CUST-00542,54,44,81.89,2,Bulanan,Tidak Ada,6.9,Tidak
+CUST-00543,40,36,75.75,0,Tahunan,Fiber,7.4,Ya
+CUST-00544,62,34,33.32,2,Bulanan,Fiber,9.7,Tidak
+CUST-00545,54,65,,1,Tahunan,Fiber,,Ya
+CUST-00546,71,27,111.77,2,Bulanan,Fiber,6.8,Tidak
+CUST-00547,56,41,66.29,0,Tahunan,DSL,6.0,Ya
+CUST-00548,36,1,53.99,1,Bulanan,Fiber,4.9,Ya
+CUST-00549,50,55,33.19,4,Bulanan,Fiber,4.9,Tidak
+CUST-00550,60,58,78.15,1,Dua Tahun,DSL,8.1,Tidak
+CUST-00551,58,67,48.35,1,Tahunan,Fiber,8.0,Tidak
+CUST-00552,26,37,97.06,0,Bulanan,DSL,7.9,Tidak
+CUST-00553,71,42,28.19,3,Bulanan,Fiber,8.3,Tidak
+CUST-00554,70,45,,1,Tahunan,DSL,6.9,Tidak
+CUST-00555,37,27,113.91,2,Tahunan,Fiber,7.1,Tidak
+CUST-00556,44,20,113.24,0,Bulanan,DSL,3.2,Ya
+CUST-00557,23,15,109.18,4,Dua Tahun,Fiber,7.6,Tidak
+CUST-00558,59,38,19.15,0,Bulanan,DSL,7.6,Tidak
+CUST-00559,72,54,17.48,1,Bulanan,Fiber,6.1,Ya
+CUST-00560,20,3,107.48,2,Tahunan,Fiber,7.5,Ya
+CUST-00561,51,6,20.06,1,Bulanan,Fiber,7.9,Tidak
+CUST-00562,61,35,112.09,1,Dua Tahun,DSL,7.5,Tidak
+CUST-00563,58,11,50.02,1,Bulanan,Fiber,5.8,Tidak
+CUST-00564,58,38,43.73,2,Dua Tahun,Fiber,3.7,Tidak
+CUST-00565,73,41,39.09,2,Bulanan,Fiber,5.6,Ya
+CUST-00566,27,21,57.83,0,Bulanan,Fiber,5.5,Ya
+CUST-00567,19,40,104.59,0,Bulanan,DSL,7.0,Ya
+CUST-00568,61,20,40.94,3,Tahunan,Fiber,4.4,Ya
+CUST-00569,35,46,78.0,0,Bulanan,DSL,3.1,Tidak
+CUST-00570,38,45,50.81,1,Tahunan,Tidak Ada,5.4,Tidak
+CUST-00571,67,10,112.04,3,Tahunan,DSL,4.7,Ya
+CUST-00572,33,8,102.14,1,Bulanan,DSL,8.1,Tidak
+CUST-00573,33,29,73.04,1,Tahunan,Tidak Ada,4.0,Tidak
+CUST-00574,68,9,45.7,3,Tahunan,DSL,7.4,Tidak
+CUST-00575,35,27,70.5,1,Tahunan,DSL,4.5,Tidak
+CUST-00576,51,14,,1,Tahunan,Fiber,7.6,Ya
+CUST-00577,69,59,20.57,0,Bulanan,Fiber,8.4,Tidak
+CUST-00578,67,25,117.61,2,Bulanan,DSL,7.5,Tidak
+CUST-00579,22,14,26.34,1,Bulanan,DSL,6.4,Tidak
+CUST-00580,40,69,23.42,0,Bulanan,Fiber,5.6,Ya
+CUST-00581,38,67,103.71,1,Bulanan,DSL,6.1,Ya
+CUST-00582,33,61,30.75,2,Tahunan,Fiber,7.4,Tidak
+CUST-00583,43,21,88.54,1,Tahunan,Fiber,7.8,Tidak
+CUST-00584,41,32,91.85,2,Dua Tahun,DSL,6.5,Tidak
+CUST-00585,54,49,85.43,1,Bulanan,Fiber,9.5,Ya
+CUST-00586,51,49,84.11,0,Dua Tahun,Fiber,3.7,Tidak
+CUST-00587,66,11,76.34,1,Bulanan,DSL,4.0,Ya
+CUST-00588,65,30,52.08,2,Bulanan,Fiber,3.6,Ya
+CUST-00589,57,22,58.05,1,Dua Tahun,Fiber,3.4,Ya
+CUST-00590,55,56,95.48,1,Dua Tahun,Fiber,6.9,Tidak
+CUST-00591,31,21,54.52,1,Bulanan,Fiber,6.0,Ya
+CUST-00592,65,50,25.71,2,Tahunan,DSL,5.4,Tidak
+CUST-00593,69,2,104.88,1,Tahunan,DSL,3.6,Ya
+CUST-00594,48,1,114.54,3,Bulanan,DSL,7.1,Ya
+CUST-00595,18,40,59.75,2,Bulanan,DSL,6.2,Ya
+CUST-00596,33,43,49.54,1,Tahunan,Tidak Ada,6.1,Tidak
+CUST-00597,54,49,102.18,2,Tahunan,Tidak Ada,5.8,Ya
+CUST-00598,50,19,22.63,2,Tahunan,Fiber,5.7,Tidak
+CUST-00599,20,12,79.33,1,Tahunan,Fiber,9.3,Tidak
+CUST-00600,49,66,79.66,0,Dua Tahun,DSL,8.2,Tidak
+CUST-00545,54,65,,1,Tahunan,Fiber,,Ya
+CUST-00272,55,27,100.62,0,Tahunan,Fiber,7.8,Tidak
+CUST-00391,46,27,93.98,3,Bulanan,DSL,8.7,Ya
+CUST-00239,74,16,49.22,0,Bulanan,Fiber,7.4,Ya
+CUST-00039,71,25,104.17,1,Bulanan,DSL,8.0,Ya
+CUST-00002,45,48,,2,Tahunan,Fiber,4.5,Tidak
+CUST-00079,26,14,24.0,2,Tahunan,DSL,8.2,Tidak
+CUST-00345,71,8,17.28,1,Bulanan,Fiber,6.3,Ya

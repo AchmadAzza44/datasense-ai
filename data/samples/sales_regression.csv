@@ -1,0 +1,485 @@
+tanggal,toko,jenis_toko,biaya_iklan_juta,harga_rata_rata,jumlah_pengunjung,promosi,penjualan_juta
+2022-01-01,Toko A,Ritel,89.53,36.6,1638,Bundling,116.05
+2022-01-02,Toko A,Online,37.47,34.62,272,Diskon 25%,63.33
+2022-01-03,Toko E,Online,75.31,30.75,754,Tidak,98.9
+2022-01-04,Toko G,Grosir,76.17,39.43,2393,Tidak,91.01
+2022-01-05,Toko D,Online,87.94,32.07,2430,Diskon 10%,127.44
+2022-01-06,Toko G,Online,11.56,26.19,1780,Tidak,50.83
+2022-01-07,Toko H,Ritel,31.98,26.59,1190,Diskon 10%,67.51
+2022-01-08,Toko B,Grosir,83.16,22.73,387,Diskon 25%,116.93
+2022-01-09,Toko D,Online,62.45,32.06,803,Bundling,94.99
+2022-01-10,Toko H,Online,29.3,39.74,1542,Diskon 10%,50.0
+2022-01-11,Toko C,Ritel,38.11,37.1,2177,Tidak,63.94
+2022-01-12,Toko H,Online,24.57,15.43,998,Tidak,63.43
+2022-01-13,Toko E,Ritel,19.19,13.96,1899,Tidak,72.53
+2022-01-14,Toko F,Ritel,18.04,35.13,1670,Diskon 25%,54.27
+2022-01-15,Toko B,Grosir,87.8,37.51,420,Tidak,103.42
+2022-01-16,Toko A,Online,41.03,33.29,1999,Tidak,75.1
+2022-01-17,Toko C,Ritel,10.37,35.99,2454,Diskon 10%,53.38
+2022-01-18,Toko E,Ritel,46.78,19.56,619,Tidak,74.87
+2022-01-19,Toko G,Ritel,29.51,31.86,722,Diskon 25%,53.62
+2022-01-20,Toko C,Grosir,22.99,17.08,933,Diskon 25%,78.39
+2022-01-21,Toko E,Ritel,22.63,13.44,163,Diskon 10%,52.2
+2022-01-22,Toko G,Grosir,54.22,32.71,1604,Bundling,91.42
+2022-01-23,Toko A,Grosir,55.22,39.68,1523,Bundling,74.55
+2022-01-24,Toko F,Online,80.49,26.8,968,Diskon 10%,108.52
+2022-01-25,Toko E,Ritel,14.34,33.7,1973,Diskon 10%,49.4
+2022-01-26,Toko B,Ritel,47.19,23.16,1043,Diskon 10%,83.39
+2022-01-27,Toko H,Ritel,29.66,22.0,1110,Tidak,69.52
+2022-01-28,Toko C,Ritel,46.3,14.92,2460,Bundling,104.77
+2022-01-29,Toko C,Online,85.62,26.47,1942,Diskon 10%,127.38
+2022-01-30,Toko A,Grosir,83.75,33.8,2405,Tidak,117.01
+2022-01-31,Toko G,Online,69.61,12.2,246,Diskon 10%,100.82
+2022-02-01,Toko D,Online,71.47,18.3,1450,Bundling,113.47
+2022-02-02,Toko A,Ritel,28.62,24.11,1072,Diskon 10%,61.22
+2022-02-03,Toko D,Ritel,49.0,12.61,2480,Diskon 10%,109.64
+2022-02-04,Toko B,Ritel,73.39,26.41,2053,Diskon 25%,125.49
+2022-02-05,Toko A,Grosir,70.11,24.1,1711,Tidak,114.73
+2022-02-06,Toko H,Online,53.76,9.96,688,Bundling,99.1
+2022-02-07,Toko H,Online,77.37,24.58,1440,Diskon 25%,118.89
+2022-02-08,Toko F,Ritel,77.42,8.13,958,Bundling,104.13
+2022-02-09,Toko D,Ritel,36.55,23.39,891,Diskon 10%,77.36
+2022-02-10,Toko D,Online,43.85,28.85,385,Diskon 25%,86.19
+2022-02-11,Toko G,Ritel,30.6,25.21,761,Diskon 10%,59.74
+2022-02-12,Toko A,Online,73.89,12.51,1516,Bundling,124.42
+2022-02-13,Toko G,Online,46.97,20.25,1602,Diskon 10%,80.01
+2022-02-14,Toko G,Ritel,52.85,19.8,318,Tidak,68.47
+2022-02-15,Toko G,Ritel,45.96,11.66,835,Diskon 25%,84.11
+2022-02-16,Toko D,Ritel,26.57,13.72,1589,Diskon 25%,74.91
+2022-02-17,Toko G,Grosir,88.6,35.81,1455,Diskon 10%,112.54
+2022-02-18,Toko B,Online,51.81,39.29,767,Diskon 25%,73.87
+2022-02-19,Toko C,Grosir,87.43,24.6,2058,Diskon 25%,143.69
+2022-02-20,Toko C,Online,24.16,8.02,2467,Diskon 25%,104.54
+2022-02-21,Toko F,Ritel,81.52,14.16,2478,Diskon 10%,131.66
+2022-02-22,Toko E,Ritel,32.44,21.46,1769,Diskon 10%,72.87
+2022-02-23,Toko C,Ritel,33.01,9.91,1335,Bundling,80.56
+2022-02-24,Toko G,Online,65.62,21.95,1731,Diskon 25%,118.2
+2022-02-25,Toko B,Online,69.04,8.29,175,Bundling,105.6
+2022-02-26,Toko F,Ritel,87.35,37.09,2185,Diskon 10%,102.07
+2022-02-27,Toko A,Grosir,86.2,27.69,825,Tidak,92.29
+2022-02-28,Toko H,Ritel,84.14,26.57,1096,Diskon 10%,109.82
+2022-03-01,Toko B,Ritel,59.18,14.69,259,Diskon 10%,88.89
+2022-03-02,Toko E,Ritel,39.0,26.85,1181,Tidak,58.02
+2022-03-03,Toko A,Online,16.92,13.54,1858,Diskon 10%,80.11
+2022-03-04,Toko C,Ritel,37.88,35.0,693,Tidak,52.52
+2022-03-05,Toko G,Online,31.79,39.19,358,Bundling,52.3
+2022-03-06,Toko G,Online,56.95,19.62,1018,Bundling,98.53
+2022-03-07,Toko H,Ritel,52.42,36.97,221,Diskon 10%,66.19
+2022-03-08,Toko E,Ritel,14.33,36.42,1875,Diskon 25%,49.68
+2022-03-09,Toko E,Grosir,45.82,26.84,217,Bundling,85.64
+2022-03-10,Toko A,Grosir,76.23,30.31,391,Tidak,91.29
+2022-03-11,Toko G,Grosir,60.92,17.72,2227,Tidak,122.36
+2022-03-12,Toko B,Ritel,10.13,28.47,1266,Diskon 10%,48.89
+2022-03-13,Toko E,Ritel,12.19,19.42,796,Tidak,42.5
+2022-03-14,Toko B,Grosir,19.23,30.74,1626,Diskon 10%,77.38
+2022-03-15,Toko F,Grosir,75.14,34.96,1153,Bundling,100.19
+2022-03-16,Toko B,Online,89.06,23.09,2276,Tidak,118.99
+2022-03-17,Toko D,Ritel,39.98,16.88,1096,Tidak,75.38
+2022-03-18,Toko D,Ritel,89.05,33.24,1092,Diskon 10%,102.53
+2022-03-19,Toko H,Ritel,77.64,12.38,150,Tidak,94.82
+2022-03-20,Toko G,Ritel,18.44,17.75,548,Diskon 10%,48.83
+2022-03-21,Toko H,Ritel,68.47,26.65,502,Bundling,94.33
+2022-03-22,Toko F,Ritel,56.37,25.53,1394,Diskon 25%,96.27
+2022-03-23,Toko G,Ritel,52.02,20.17,2267,Diskon 25%,104.25
+2022-03-24,Toko E,Grosir,61.19,10.32,238,Bundling,89.69
+2022-03-25,Toko F,Grosir,,39.63,1249,Tidak,110.91
+2022-03-26,Toko F,Ritel,21.2,17.7,1373,Diskon 10%,66.36
+2022-03-27,Toko A,Online,85.29,21.07,2416,Tidak,117.84
+2022-03-28,Toko F,Online,33.89,10.6,1169,Diskon 10%,80.57
+2022-03-29,Toko C,Ritel,70.79,32.17,958,Diskon 25%,88.2
+2022-03-30,Toko D,Online,28.78,39.2,1956,Tidak,61.12
+2022-03-31,Toko B,Ritel,26.03,15.62,546,Diskon 10%,52.96
+2022-04-01,Toko B,Grosir,10.27,17.73,267,Diskon 25%,57.94
+2022-04-02,Toko F,Ritel,62.6,8.47,439,Diskon 25%,102.3
+2022-04-03,Toko C,Ritel,36.03,17.68,2350,Tidak,71.56
+2022-04-04,Toko D,Grosir,41.51,10.34,274,Tidak,71.5
+2022-04-05,Toko B,Online,89.17,39.01,485,Tidak,96.02
+2022-04-06,Toko H,Online,31.8,36.44,2378,Diskon 25%,82.07
+2022-04-07,Toko D,Ritel,75.01,8.51,2164,Diskon 25%,137.27
+2022-04-08,Toko F,Ritel,51.97,24.49,801,Tidak,69.68
+2022-04-09,Toko F,Grosir,15.63,9.93,2435,Tidak,88.43
+2022-04-10,Toko B,Online,25.99,15.8,2495,Tidak,75.66
+2022-04-11,Toko A,Online,13.8,29.04,384,Diskon 10%,37.05
+2022-04-12,Toko C,Ritel,25.38,10.61,1134,Diskon 25%,86.04
+2022-04-13,Toko G,Online,79.39,13.87,1212,Diskon 25%,125.41
+2022-04-14,Toko E,Ritel,73.77,14.57,550,Bundling,99.0
+2022-04-15,Toko G,Online,54.01,30.86,1323,Tidak,71.18
+2022-04-16,Toko C,Online,27.77,24.54,881,Bundling,66.41
+2022-04-17,Toko C,Online,60.64,10.41,1025,Tidak,106.65
+2022-04-18,Toko E,Grosir,59.95,8.41,464,Tidak,85.79
+2022-04-19,Toko E,Online,56.21,30.13,1414,Diskon 10%,91.26
+2022-04-20,Toko D,Online,5.76,22.18,1653,Tidak,53.21
+2022-04-21,Toko H,Online,30.18,15.73,1947,Diskon 10%,91.74
+2022-04-22,Toko F,Grosir,43.26,18.48,2362,Diskon 10%,104.32
+2022-04-23,Toko A,Online,67.18,19.08,1670,Tidak,108.54
+2022-04-24,Toko A,Ritel,52.75,32.63,1812,Diskon 25%,91.56
+2022-04-25,Toko D,Ritel,35.44,14.86,1845,Diskon 10%,92.92
+2022-04-26,Toko C,Grosir,73.61,19.92,2100,Diskon 10%,130.51
+2022-04-27,Toko G,Online,44.12,19.4,2010,Diskon 10%,94.88
+2022-04-28,Toko G,Ritel,48.81,10.23,1169,Tidak,80.95
+2022-04-29,Toko D,Grosir,62.07,22.81,958,Tidak,80.07
+2022-04-30,Toko E,Ritel,27.06,24.67,1952,Tidak,69.13
+2022-05-01,Toko H,Grosir,52.35,10.52,915,Tidak,82.93
+2022-05-02,Toko E,Ritel,10.5,13.98,595,Diskon 25%,52.11
+2022-05-03,Toko G,Grosir,25.72,32.71,2124,Diskon 25%,82.74
+2022-05-04,Toko D,Grosir,62.3,32.26,1248,Tidak,85.51
+2022-05-05,Toko D,Online,86.93,31.67,761,Tidak,95.44
+2022-05-06,Toko D,Online,36.37,26.44,109,Bundling,61.78
+2022-05-07,Toko A,Grosir,51.64,24.8,1555,Diskon 25%,101.92
+2022-05-08,Toko E,Online,49.83,29.73,570,Tidak,66.79
+2022-05-09,Toko C,Online,35.15,23.98,1967,Tidak,74.47
+2022-05-10,Toko D,Ritel,57.26,11.49,1853,Tidak,112.35
+2022-05-11,Toko E,Online,55.05,33.2,1298,Diskon 10%,88.54
+2022-05-12,Toko G,Online,21.29,39.8,1745,Diskon 25%,49.82
+2022-05-13,Toko H,Grosir,13.45,37.39,1242,Bundling,46.58
+2022-05-14,Toko G,Online,38.39,23.3,1660,Tidak,64.6
+2022-05-15,Toko C,Ritel,32.2,25.45,1570,Diskon 25%,77.25
+2022-05-16,Toko B,Ritel,48.05,30.32,1903,Diskon 10%,77.98
+2022-05-17,Toko H,Online,23.28,15.38,1866,Diskon 10%,77.43
+2022-05-18,Toko B,Online,89.75,16.89,1419,Tidak,121.78
+2022-05-19,Toko E,Online,32.81,15.39,1782,Diskon 25%,91.4
+2022-05-20,Toko G,Ritel,57.56,13.79,156,Bundling,96.21
+2022-05-21,Toko F,Ritel,39.67,25.86,1225,Diskon 25%,83.16
+2022-05-22,Toko G,Online,10.55,22.0,1683,Diskon 10%,58.16
+2022-05-23,Toko C,Ritel,78.23,20.69,1305,Tidak,91.0
+2022-05-24,Toko B,Online,37.98,17.55,759,Diskon 10%,89.22
+2022-05-25,Toko E,Online,34.88,8.91,629,Tidak,74.45
+2022-05-26,Toko D,Ritel,6.88,8.57,1007,Diskon 25%,64.61
+2022-05-27,Toko H,Online,52.25,28.5,567,Diskon 10%,76.79
+2022-05-28,Toko F,Ritel,86.47,29.45,1352,Bundling,112.72
+2022-05-29,Toko C,Online,85.11,28.16,591,Diskon 25%,121.05
+2022-05-30,Toko E,Ritel,22.05,10.03,813,Diskon 25%,78.85
+2022-05-31,Toko A,Ritel,62.3,18.39,472,Diskon 25%,88.08
+2022-06-01,Toko B,Online,73.82,24.85,2123,Tidak,115.77
+2022-06-02,Toko G,Ritel,50.67,20.84,1002,Tidak,77.71
+2022-06-03,Toko B,Ritel,63.29,18.83,1020,Diskon 10%,99.18
+2022-06-04,Toko C,Ritel,13.51,39.07,2250,Diskon 10%,43.35
+2022-06-05,Toko B,Ritel,30.83,20.4,2083,Diskon 25%,71.43
+2022-06-06,Toko F,Grosir,63.82,34.0,113,Diskon 10%,84.54
+2022-06-07,Toko G,Online,45.25,23.31,775,Tidak,68.94
+2022-06-08,Toko B,Online,65.06,34.66,2094,Tidak,91.49
+2022-06-09,Toko H,Ritel,42.98,15.17,1251,Diskon 25%,90.96
+2022-06-10,Toko A,Ritel,31.72,9.71,570,Diskon 10%,65.54
+2022-06-11,Toko G,Online,60.75,20.59,1051,Bundling,91.14
+2022-06-12,Toko H,Ritel,20.81,33.87,993,Tidak,39.66
+2022-06-13,Toko G,Online,9.91,25.81,868,Diskon 10%,47.22
+2022-06-14,Toko A,Grosir,33.06,23.3,1344,Tidak,76.28
+2022-06-15,Toko C,Ritel,87.24,37.5,1483,Diskon 10%,100.4
+2022-06-16,Toko D,Online,52.95,22.98,955,Tidak,81.75
+2022-06-17,Toko C,Grosir,84.25,34.46,1176,Diskon 25%,110.15
+2022-06-18,Toko C,Online,28.32,11.1,1132,Tidak,76.01
+2022-06-19,Toko E,Grosir,43.51,32.31,1232,Bundling,82.36
+2022-06-20,Toko G,Grosir,23.64,13.52,1012,Diskon 10%,82.74
+2022-06-21,Toko B,Ritel,70.18,19.94,1919,Tidak,107.15
+2022-06-22,Toko F,Online,28.37,34.44,2073,Tidak,62.43
+2022-06-23,Toko D,Grosir,7.81,19.71,1798,Diskon 10%,73.47
+2022-06-24,Toko E,Ritel,64.56,9.49,2003,Tidak,107.15
+2022-06-25,Toko B,Online,37.5,16.29,120,Bundling,71.7
+2022-06-26,Toko F,Ritel,23.26,31.06,2280,Diskon 10%,60.58
+2022-06-27,Toko D,Ritel,40.04,24.04,750,Diskon 10%,68.45
+2022-06-28,Toko E,Online,43.24,20.74,2454,Tidak,82.94
+2022-06-29,Toko A,Online,20.58,38.42,1870,Diskon 25%,56.02
+2022-06-30,Toko H,Ritel,72.12,29.14,793,Tidak,81.79
+2022-07-01,Toko F,Ritel,54.58,18.05,1786,Bundling,103.93
+2022-07-02,Toko F,Online,50.49,33.43,187,Bundling,71.69
+2022-07-03,Toko F,Online,50.78,33.39,296,Tidak,57.16
+2022-07-04,Toko C,Ritel,69.55,17.56,2377,Diskon 10%,115.63
+2022-07-05,Toko H,Ritel,16.06,27.91,2352,Tidak,54.37
+2022-07-06,Toko G,Grosir,63.79,34.59,1857,Diskon 10%,103.6
+2022-07-07,Toko G,Ritel,89.67,25.56,846,Diskon 25%,113.72
+2022-07-08,Toko D,Grosir,57.58,24.87,204,Tidak,74.05
+2022-07-09,Toko C,Grosir,86.3,35.24,294,Diskon 25%,102.69
+2022-07-10,Toko D,Ritel,27.89,27.05,359,Diskon 25%,79.46
+2022-07-11,Toko F,Online,14.79,35.69,205,Diskon 25%,34.89
+2022-07-12,Toko B,Ritel,12.6,33.76,2260,Diskon 10%,56.19
+2022-07-13,Toko G,Online,56.61,31.02,249,Tidak,65.52
+2022-07-14,Toko B,Ritel,33.45,30.86,2417,Tidak,75.88
+2022-07-15,Toko F,Ritel,27.4,18.5,600,Diskon 25%,67.23
+2022-07-16,Toko G,Ritel,76.74,31.88,2291,Diskon 25%,113.27
+2022-07-17,Toko G,Grosir,14.31,20.79,1885,Diskon 10%,78.47
+2022-07-18,Toko G,Ritel,16.46,25.93,642,Diskon 10%,39.49
+2022-07-19,Toko B,Ritel,6.35,15.14,958,Bundling,49.51
+2022-07-20,Toko H,Ritel,41.1,19.3,2215,Bundling,104.26
+2022-07-21,Toko A,Online,32.13,31.7,169,Tidak,40.07
+2022-07-22,Toko F,Ritel,64.48,33.38,690,Bundling,85.23
+2022-07-23,Toko G,Ritel,7.69,28.9,2233,Tidak,40.05
+2022-07-24,Toko D,Ritel,74.94,37.05,1487,Tidak,93.24
+2022-07-25,Toko B,Online,89.72,25.75,1648,Diskon 10%,126.15
+2022-07-26,Toko H,Online,56.35,11.43,1343,Tidak,95.44
+2022-07-27,Toko H,Grosir,53.59,38.37,1734,Diskon 25%,88.22
+2022-07-28,Toko E,Ritel,81.75,20.72,262,Bundling,93.99
+2022-07-29,Toko E,Online,10.8,30.82,1590,Diskon 25%,51.82
+2022-07-30,Toko D,Ritel,65.61,11.81,2301,Tidak,119.1
+2022-07-31,Toko D,Ritel,83.13,28.48,816,Tidak,91.3
+2022-08-01,Toko E,Ritel,15.68,22.77,798,Diskon 10%,50.49
+2022-08-02,Toko D,Grosir,71.53,10.37,828,Tidak,106.22
+2022-08-03,Toko G,Grosir,34.72,17.4,444,Diskon 10%,68.07
+2022-08-04,Toko E,Online,19.02,23.85,2050,Bundling,67.02
+2022-08-05,Toko F,Ritel,10.76,26.61,2486,Tidak,60.41
+2022-08-06,Toko E,Grosir,88.13,19.27,858,Tidak,122.44
+2022-08-07,Toko F,Grosir,75.52,9.26,980,Diskon 25%,120.97
+2022-08-08,Toko H,Online,68.03,28.75,2284,Tidak,105.31
+2022-08-09,Toko E,Online,56.28,31.89,1851,Bundling,83.83
+2022-08-10,Toko C,Online,29.09,11.03,158,Bundling,77.47
+2022-08-11,Toko B,Ritel,44.88,13.26,596,Bundling,86.57
+2022-08-12,Toko C,Online,17.21,24.14,1008,Diskon 10%,53.66
+2022-08-13,Toko F,Online,8.81,20.7,1113,Tidak,59.95
+2022-08-14,Toko G,Ritel,66.73,37.71,1918,Bundling,85.53
+2022-08-15,Toko B,Online,45.42,24.85,1808,Tidak,79.03
+2022-08-16,Toko E,Ritel,82.95,29.35,1942,Bundling,118.83
+2022-08-17,Toko A,Grosir,,15.36,737,Diskon 25%,57.08
+2022-08-18,Toko B,Ritel,49.51,8.21,152,Diskon 25%,85.46
+2022-08-19,Toko A,Online,62.49,28.71,1371,Tidak,81.91
+2022-08-20,Toko A,Grosir,36.22,18.64,811,Tidak,75.83
+2022-08-21,Toko E,Ritel,39.8,17.84,1756,Diskon 10%,82.32
+2022-08-22,Toko F,Online,89.81,24.72,1102,Bundling,117.7
+2022-08-23,Toko D,Grosir,20.2,24.52,1438,Diskon 10%,60.03
+2022-08-24,Toko F,Ritel,27.62,33.22,727,Tidak,27.0
+2022-08-25,Toko A,Online,59.89,21.69,1902,Tidak,102.88
+2022-08-26,Toko D,Grosir,68.8,18.87,862,Tidak,113.18
+2022-08-27,Toko H,Ritel,61.29,30.39,672,Diskon 25%,66.76
+2022-08-28,Toko F,Online,45.12,24.5,721,Diskon 25%,82.83
+2022-08-29,Toko G,Ritel,16.58,18.03,247,Bundling,51.59
+2022-08-30,Toko E,Ritel,5.65,23.37,1156,Diskon 25%,47.49
+2022-08-31,Toko F,Grosir,9.66,34.28,313,Tidak,32.66
+2022-09-01,Toko E,Ritel,86.45,11.92,1547,Diskon 25%,130.97
+2022-09-02,Toko H,Ritel,8.61,9.11,1424,Tidak,58.53
+2022-09-03,Toko A,Ritel,23.51,26.38,299,Tidak,38.27
+2022-09-04,Toko D,Ritel,35.85,34.07,2261,Diskon 10%,78.7
+2022-09-05,Toko C,Online,30.22,21.75,310,Diskon 10%,60.19
+2022-09-06,Toko B,Ritel,10.54,8.21,2126,Diskon 25%,87.76
+2022-09-07,Toko H,Ritel,80.55,25.99,541,Tidak,95.09
+2022-09-08,Toko B,Ritel,46.62,10.05,1779,Bundling,90.37
+2022-09-09,Toko H,Ritel,84.7,11.22,2238,Diskon 10%,134.73
+2022-09-10,Toko B,Grosir,44.31,11.56,724,Diskon 10%,87.07
+2022-09-11,Toko A,Online,45.11,9.58,395,Tidak,73.83
+2022-09-12,Toko D,Online,71.01,8.27,1778,Diskon 10%,112.3
+2022-09-13,Toko F,Online,13.81,30.64,864,Diskon 10%,48.38
+2022-09-14,Toko A,Ritel,64.08,13.66,686,Tidak,88.16
+2022-09-15,Toko C,Ritel,41.81,31.62,435,Diskon 25%,69.66
+2022-09-16,Toko B,Online,23.51,14.31,1886,Bundling,79.55
+2022-09-17,Toko F,Grosir,57.59,21.9,2108,Tidak,89.76
+2022-09-18,Toko G,Ritel,45.95,26.11,2415,Diskon 25%,83.85
+2022-09-19,Toko H,Online,34.83,12.3,303,Bundling,76.53
+2022-09-20,Toko B,Ritel,81.53,25.51,746,Tidak,90.62
+2022-09-21,Toko C,Ritel,60.41,36.49,649,Tidak,54.91
+2022-09-22,Toko D,Online,48.57,38.96,1277,Bundling,76.61
+2022-09-23,Toko H,Ritel,86.02,37.53,1823,Tidak,91.92
+2022-09-24,Toko D,Ritel,61.64,14.24,1012,Diskon 25%,100.01
+2022-09-25,Toko B,Online,6.2,15.2,450,Diskon 10%,54.63
+2022-09-26,Toko E,Ritel,73.28,35.11,1339,Tidak,87.8
+2022-09-27,Toko B,Ritel,68.09,14.13,1956,Tidak,113.53
+2022-09-28,Toko H,Online,59.09,28.52,278,Tidak,76.24
+2022-09-29,Toko A,Ritel,51.61,34.28,1997,Bundling,89.5
+2022-09-30,Toko A,Ritel,45.99,15.34,1388,Diskon 10%,92.4
+2022-10-01,Toko G,Ritel,48.46,14.05,1948,Diskon 10%,95.3
+2022-10-02,Toko B,Ritel,83.99,24.9,2374,Tidak,111.55
+2022-10-03,Toko G,Grosir,31.23,37.43,2013,Tidak,69.88
+2022-10-04,Toko C,Online,54.17,38.13,2347,Tidak,87.55
+2022-10-05,Toko H,Ritel,8.49,8.89,1144,Diskon 10%,57.9
+2022-10-06,Toko A,Ritel,52.48,13.61,1768,Tidak,101.13
+2022-10-07,Toko D,Ritel,16.92,11.3,260,Diskon 10%,68.72
+2022-10-08,Toko H,Ritel,,37.47,1669,Tidak,32.56
+2022-10-09,Toko B,Ritel,22.57,28.99,1684,Tidak,46.17
+2022-10-10,Toko D,Online,43.65,13.12,1266,Bundling,109.43
+2022-10-11,Toko G,Ritel,75.71,38.98,153,Tidak,60.93
+2022-10-12,Toko G,Online,11.71,38.39,1085,Diskon 10%,36.38
+2022-10-13,Toko B,Ritel,8.64,34.74,2327,Bundling,57.7
+2022-10-14,Toko E,Grosir,5.57,34.21,262,Tidak,12.75
+2022-10-15,Toko F,Online,17.62,8.53,193,Diskon 10%,61.14
+2022-10-16,Toko H,Grosir,45.8,18.62,2196,Tidak,96.05
+2022-10-17,Toko C,Ritel,73.06,31.23,2269,Diskon 10%,118.11
+2022-10-18,Toko A,Ritel,89.33,39.15,286,Tidak,84.8
+2022-10-19,Toko D,Ritel,53.57,28.32,355,Diskon 25%,55.58
+2022-10-20,Toko F,Ritel,63.63,29.39,2352,Diskon 25%,102.64
+2022-10-21,Toko B,Ritel,27.69,27.42,1864,Diskon 10%,63.22
+2022-10-22,Toko C,Online,39.09,38.7,1017,Bundling,65.87
+2022-10-23,Toko E,Ritel,26.99,39.65,2127,Bundling,49.17
+2022-10-24,Toko E,Grosir,51.86,22.87,1025,Tidak,88.67
+2022-10-25,Toko D,Online,68.44,20.71,995,Bundling,105.42
+2022-10-26,Toko G,Grosir,14.78,26.61,906,Bundling,60.17
+2022-10-27,Toko A,Online,50.69,18.87,705,Diskon 10%,87.88
+2022-10-28,Toko H,Grosir,20.98,22.18,836,Diskon 10%,65.48
+2022-10-29,Toko A,Ritel,65.57,12.03,1228,Bundling,114.13
+2022-10-30,Toko C,Ritel,38.21,37.51,1244,Diskon 25%,63.2
+2022-10-31,Toko G,Online,35.8,39.17,735,Diskon 10%,56.89
+2022-11-01,Toko A,Ritel,43.4,34.69,576,Tidak,41.64
+2022-11-02,Toko E,Online,40.59,39.12,1537,Diskon 25%,73.9
+2022-11-03,Toko F,Online,39.1,34.59,1535,Bundling,81.3
+2022-11-04,Toko G,Ritel,75.11,23.97,2492,Tidak,119.21
+2022-11-05,Toko D,Ritel,41.44,19.8,1193,Tidak,69.98
+2022-11-06,Toko G,Online,63.03,21.93,2397,Diskon 10%,120.69
+2022-11-07,Toko E,Online,20.02,17.29,242,Diskon 25%,62.11
+2022-11-08,Toko H,Grosir,78.09,9.44,1146,Diskon 25%,113.02
+2022-11-09,Toko D,Ritel,74.31,19.65,198,Tidak,88.6
+2022-11-10,Toko F,Ritel,12.49,27.66,1677,Bundling,41.28
+2022-11-11,Toko E,Grosir,82.89,17.56,1567,Diskon 10%,129.91
+2022-11-12,Toko E,Online,28.76,8.47,1499,Tidak,76.77
+2022-11-13,Toko G,Ritel,18.02,33.64,1538,Tidak,33.9
+2022-11-14,Toko C,Online,26.03,28.65,1645,Tidak,74.19
+2022-11-15,Toko H,Online,75.82,13.87,1062,Bundling,118.61
+2022-11-16,Toko E,Ritel,66.18,36.72,870,Diskon 10%,75.18
+2022-11-17,Toko D,Online,73.29,33.88,2324,Bundling,103.11
+2022-11-18,Toko A,Ritel,61.13,13.27,573,Tidak,91.75
+2022-11-19,Toko H,Ritel,59.66,8.5,692,Diskon 10%,103.08
+2022-11-20,Toko C,Online,63.84,13.86,1500,Diskon 10%,105.17
+2022-11-21,Toko E,Ritel,68.93,34.03,2006,Bundling,99.44
+2022-11-22,Toko G,Ritel,5.44,8.59,1771,Bundling,61.65
+2022-11-23,Toko B,Ritel,85.11,22.4,2490,Diskon 25%,140.2
+2022-11-24,Toko G,Ritel,20.77,14.44,2081,Tidak,71.26
+2022-11-25,Toko H,Grosir,80.23,10.77,516,Tidak,114.42
+2022-11-26,Toko F,Online,29.47,16.38,1120,Diskon 10%,83.14
+2022-11-27,Toko B,Online,47.75,12.08,1374,Diskon 25%,113.94
+2022-11-28,Toko H,Grosir,29.33,24.53,1802,Diskon 25%,90.7
+2022-11-29,Toko H,Ritel,14.12,20.66,1035,Tidak,53.83
+2022-11-30,Toko A,Ritel,89.25,14.94,1001,Bundling,119.45
+2022-12-01,Toko B,Ritel,21.92,23.89,1560,Bundling,66.86
+2022-12-02,Toko A,Online,20.01,12.88,2278,Tidak,76.86
+2022-12-03,Toko D,Ritel,55.17,23.24,1449,Tidak,94.92
+2022-12-04,Toko G,Online,26.56,27.14,2203,Tidak,58.75
+2022-12-05,Toko B,Ritel,27.55,35.26,567,Diskon 10%,42.57
+2022-12-06,Toko G,Grosir,25.03,10.96,1685,Diskon 10%,85.35
+2022-12-07,Toko H,Ritel,41.91,26.63,1444,Tidak,82.02
+2022-12-08,Toko A,Ritel,16.79,36.15,827,Diskon 10%,37.33
+2022-12-09,Toko D,Ritel,36.45,25.18,413,Diskon 10%,64.44
+2022-12-10,Toko G,Grosir,81.6,22.3,2395,Diskon 10%,132.35
+2022-12-11,Toko A,Online,53.71,14.21,1551,Diskon 10%,104.57
+2022-12-12,Toko G,Online,45.44,32.34,1669,Bundling,74.45
+2022-12-13,Toko H,Online,39.14,31.73,647,Tidak,62.91
+2022-12-14,Toko F,Online,86.2,11.74,553,Diskon 25%,132.02
+2022-12-15,Toko E,Ritel,65.18,34.69,845,Tidak,73.75
+2022-12-16,Toko A,Grosir,54.71,24.44,846,Diskon 10%,84.05
+2022-12-17,Toko G,Ritel,62.8,39.21,1354,Tidak,79.04
+2022-12-18,Toko F,Ritel,75.82,38.05,1936,Diskon 10%,97.86
+2022-12-19,Toko A,Grosir,71.25,26.73,1419,Tidak,103.49
+2022-12-20,Toko H,Ritel,87.12,11.93,964,Diskon 10%,128.55
+2022-12-21,Toko D,Ritel,58.9,38.25,2416,Bundling,95.48
+2022-12-22,Toko E,Ritel,74.71,32.49,768,Diskon 10%,84.35
+2022-12-23,Toko F,Online,25.88,36.28,1328,Diskon 25%,75.7
+2022-12-24,Toko G,Grosir,38.35,9.98,1461,Tidak,78.27
+2022-12-25,Toko B,Online,76.56,32.76,1440,Diskon 25%,110.4
+2022-12-26,Toko B,Ritel,25.1,35.32,1607,Tidak,56.06
+2022-12-27,Toko D,Online,37.34,29.21,1721,Tidak,57.81
+2022-12-28,Toko C,Ritel,18.07,27.11,2066,Bundling,69.93
+2022-12-29,Toko E,Ritel,22.01,36.16,1597,Diskon 25%,61.67
+2022-12-30,Toko D,Online,12.96,23.69,1335,Tidak,39.16
+2022-12-31,Toko F,Online,89.62,22.84,2466,Tidak,128.88
+2023-01-01,Toko C,Grosir,61.59,26.66,703,Diskon 25%,91.86
+2023-01-02,Toko B,Online,88.3,11.59,1285,Tidak,119.65
+2023-01-03,Toko F,Online,30.32,12.86,1409,Tidak,76.2
+2023-01-04,Toko E,Online,50.21,16.58,1384,Diskon 25%,100.5
+2023-01-05,Toko H,Online,74.13,37.54,809,Bundling,101.46
+2023-01-06,Toko H,Grosir,24.45,14.21,2213,Diskon 10%,82.36
+2023-01-07,Toko G,Ritel,72.35,30.13,1411,Diskon 10%,102.19
+2023-01-08,Toko B,Grosir,58.63,38.77,933,Tidak,79.1
+2023-01-09,Toko G,Ritel,46.35,22.3,178,Tidak,56.49
+2023-01-10,Toko D,Ritel,21.98,28.92,1899,Bundling,61.62
+2023-01-11,Toko E,Online,40.03,18.52,1469,Diskon 25%,89.04
+2023-01-12,Toko E,Ritel,71.11,22.46,325,Tidak,91.39
+2023-01-13,Toko A,Online,83.03,8.08,1467,Diskon 25%,138.24
+2023-01-14,Toko C,Grosir,18.59,24.78,2228,Diskon 25%,79.72
+2023-01-15,Toko A,Ritel,26.33,9.82,1288,Diskon 10%,80.61
+2023-01-16,Toko H,Grosir,81.43,14.57,2468,Tidak,138.28
+2023-01-17,Toko A,Grosir,88.83,14.47,199,Bundling,127.78
+2023-01-18,Toko B,Ritel,81.61,28.29,293,Diskon 10%,89.46
+2023-01-19,Toko C,Ritel,85.52,34.39,1484,Tidak,101.25
+2023-01-20,Toko A,Ritel,25.78,14.81,1158,Tidak,56.46
+2023-01-21,Toko H,Online,21.8,14.26,595,Diskon 25%,86.39
+2023-01-22,Toko B,Online,57.55,29.48,1935,Tidak,99.2
+2023-01-23,Toko C,Online,12.13,22.36,874,Diskon 10%,63.44
+2023-01-24,Toko H,Grosir,6.4,13.5,2452,Tidak,60.63
+2023-01-25,Toko E,Ritel,76.99,29.18,742,Diskon 10%,87.1
+2023-01-26,Toko A,Online,22.34,12.98,2050,Bundling,90.8
+2023-01-27,Toko A,Ritel,35.24,17.26,222,Diskon 10%,68.84
+2023-01-28,Toko H,Ritel,,20.95,425,Diskon 25%,102.39
+2023-01-29,Toko A,Online,77.8,36.06,1748,Diskon 25%,108.86
+2023-01-30,Toko C,Online,72.5,20.36,1347,Diskon 25%,108.31
+2023-01-31,Toko D,Ritel,28.79,14.11,1233,Diskon 10%,77.16
+2023-02-01,Toko F,Online,48.54,22.7,1996,Tidak,96.76
+2023-02-02,Toko A,Ritel,17.7,23.32,240,Tidak,38.9
+2023-02-03,Toko A,Grosir,63.44,24.54,947,Bundling,102.08
+2023-02-04,Toko C,Grosir,58.31,28.49,1327,Bundling,69.5
+2023-02-05,Toko G,Online,39.5,10.65,228,Tidak,72.91
+2023-02-06,Toko D,Grosir,78.0,30.02,1013,Tidak,83.49
+2023-02-07,Toko A,Online,65.52,26.28,1720,Bundling,112.84
+2023-02-08,Toko A,Online,81.42,15.28,1521,Tidak,118.8
+2023-02-09,Toko H,Online,,19.55,444,Diskon 25%,94.92
+2023-02-10,Toko A,Ritel,57.68,33.24,2154,Tidak,75.3
+2023-02-11,Toko D,Online,23.93,30.95,1466,Diskon 10%,60.5
+2023-02-12,Toko H,Ritel,59.7,8.69,252,Tidak,91.02
+2023-02-13,Toko E,Online,40.11,15.72,1421,Diskon 10%,84.53
+2023-02-14,Toko A,Ritel,10.24,14.7,1991,Bundling,60.93
+2023-02-15,Toko H,Ritel,15.5,17.74,798,Bundling,59.74
+2023-02-16,Toko E,Ritel,59.86,39.85,2221,Tidak,72.83
+2023-02-17,Toko B,Ritel,28.48,20.04,1600,Tidak,60.19
+2023-02-18,Toko B,Online,74.6,34.55,2324,Diskon 25%,123.71
+2023-02-19,Toko B,Grosir,27.27,35.47,437,Tidak,45.89
+2023-02-20,Toko G,Ritel,29.32,13.32,1683,Diskon 10%,71.3
+2023-02-21,Toko A,Online,42.63,26.14,2342,Diskon 10%,87.53
+2023-02-22,Toko G,Online,44.87,10.53,1442,Bundling,103.1
+2023-02-23,Toko E,Ritel,64.93,29.86,1327,Tidak,83.37
+2023-02-24,Toko E,Online,78.62,21.98,1941,Tidak,112.23
+2023-02-25,Toko D,Grosir,73.24,11.61,876,Bundling,114.65
+2023-02-26,Toko E,Ritel,16.03,10.3,146,Bundling,52.64
+2023-02-27,Toko E,Ritel,63.88,24.68,668,Diskon 10%,88.14
+2023-02-28,Toko G,Ritel,63.17,38.02,493,Bundling,62.06
+2023-03-01,Toko B,Online,79.8,16.11,440,Bundling,123.25
+2023-03-02,Toko H,Online,39.84,18.77,1753,Diskon 25%,101.36
+2023-03-03,Toko F,Online,7.37,37.44,1031,Tidak,32.72
+2023-03-04,Toko E,Ritel,36.14,24.1,1427,Diskon 25%,81.37
+2023-03-05,Toko H,Online,8.5,39.21,2056,Diskon 25%,40.73
+2023-03-06,Toko A,Ritel,80.03,33.42,346,Diskon 10%,87.39
+2023-03-07,Toko F,Online,73.62,8.27,1879,Bundling,134.42
+2023-03-08,Toko B,Online,43.35,15.83,1098,Diskon 25%,91.78
+2023-03-09,Toko F,Ritel,67.87,21.66,358,Diskon 25%,100.42
+2023-03-10,Toko D,Grosir,89.54,31.22,1711,Diskon 10%,122.32
+2023-03-11,Toko C,Ritel,24.54,37.03,1730,Diskon 25%,63.75
+2023-03-12,Toko A,Online,78.93,36.24,2118,Tidak,107.98
+2023-03-13,Toko H,Ritel,32.22,18.59,388,Tidak,60.02
+2023-03-14,Toko H,Online,44.02,13.13,1932,Tidak,99.19
+2023-03-15,Toko E,Online,80.33,34.64,2064,Tidak,108.24
+2023-03-16,Toko H,Ritel,36.68,35.2,498,Tidak,43.38
+2023-03-17,Toko D,Online,87.5,30.68,945,Bundling,110.74
+2023-03-18,Toko D,Ritel,57.97,32.2,802,Diskon 10%,85.81
+2023-03-19,Toko F,Online,7.32,11.95,1801,Tidak,55.14
+2023-03-20,Toko H,Ritel,40.58,21.43,1448,Tidak,65.96
+2023-03-21,Toko B,Online,68.99,29.94,341,Bundling,80.8
+2023-03-22,Toko B,Grosir,34.35,21.15,1481,Bundling,81.85
+2023-03-23,Toko F,Ritel,40.24,33.09,1924,Diskon 25%,82.11
+2023-03-24,Toko A,Ritel,38.74,30.07,1578,Diskon 25%,69.95
+2023-03-25,Toko G,Grosir,54.33,18.81,1389,Bundling,110.26
+2023-03-26,Toko D,Online,71.12,14.07,907,Tidak,108.51
+2023-03-27,Toko F,Grosir,59.24,15.13,1571,Diskon 10%,121.9
+2023-03-28,Toko C,Ritel,74.82,13.0,2196,Bundling,123.85
+2023-03-29,Toko H,Grosir,37.49,24.85,2343,Diskon 25%,100.27
+2023-03-30,Toko H,Ritel,26.22,26.63,314,Diskon 10%,48.63
+2023-03-31,Toko G,Ritel,88.5,21.65,915,Tidak,112.95
+2023-04-01,Toko C,Ritel,51.38,23.02,1744,Diskon 25%,82.69
+2023-04-02,Toko A,Online,85.74,39.06,261,Diskon 10%,89.9
+2023-04-03,Toko D,Ritel,65.81,22.14,1286,Tidak,87.25
+2023-04-04,Toko C,Ritel,35.96,18.52,1454,Tidak,71.6
+2023-04-05,Toko A,Grosir,37.1,12.24,1840,Diskon 25%,107.25
+2023-04-06,Toko C,Ritel,14.7,29.86,210,Diskon 25%,34.77
+2023-04-07,Toko E,Online,10.44,31.63,1037,Diskon 10%,40.45
+2023-04-08,Toko F,Online,70.64,33.88,1395,Diskon 10%,98.3
+2023-04-09,Toko C,Grosir,83.13,13.38,894,Tidak,121.2
+2023-04-10,Toko B,Online,18.94,32.57,1631,Tidak,46.53
+2023-04-11,Toko F,Ritel,24.67,23.26,485,Bundling,70.36
+2023-04-12,Toko D,Ritel,20.84,9.84,723,Diskon 10%,54.68
+2023-04-13,Toko G,Online,27.68,33.52,116,Diskon 10%,47.06
+2023-04-14,Toko C,Online,82.77,28.45,745,Tidak,91.41
+2023-04-15,Toko D,Ritel,54.15,15.08,318,Tidak,66.75
+2023-04-16,Toko C,Ritel,35.14,15.42,2002,Diskon 25%,96.78
+2023-04-17,Toko G,Grosir,64.75,23.13,137,Diskon 25%,95.31
+2023-04-18,Toko E,Ritel,27.47,23.18,921,Bundling,56.62
+2023-04-19,Toko A,Online,60.69,36.93,1410,Diskon 25%,92.62
+2023-04-20,Toko A,Online,70.56,28.72,1236,Diskon 25%,121.44
+2023-04-21,Toko H,Grosir,70.22,33.52,838,Tidak,93.61
+2023-04-22,Toko F,Grosir,50.84,21.88,2459,Tidak,109.33
+2023-04-23,Toko E,Ritel,57.64,31.99,1288,Diskon 25%,97.15
+2023-04-24,Toko D,Online,15.47,29.73,2214,Bundling,75.97
+2023-04-25,Toko C,Grosir,82.91,27.87,662,Diskon 10%,103.14
+2023-03-22,Toko B,Grosir,34.35,21.15,1481,Bundling,81.85
+2022-11-15,Toko H,Online,75.82,13.87,1062,Bundling,118.61
+2022-08-12,Toko C,Online,17.21,24.14,1008,Diskon 10%,53.66
+2022-10-03,Toko G,Grosir,31.23,37.43,2013,Tidak,69.88
